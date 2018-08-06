@@ -3,7 +3,7 @@
 * [Buttons](README.md)
 * [Introduction](introduction.md)
 * [Change Control](change-control.md)
-* [How This Styleguide is Structured](how-this-styleguide-is-structured.md)
+* [Our Design System](how-this-styleguide-is-structured.md)
 * [Core UX Principles](our-core-ux-principles.md)
 * [Foundations](foundations/README.md)
   * [Colours](foundations/colours.md)
