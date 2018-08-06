@@ -1,7 +1,3 @@
----
-description: These core principles inform everything we do in the Digital Studio.
----
-
 # Core UX Principles
 
 ## Design for All

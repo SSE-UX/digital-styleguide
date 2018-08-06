@@ -1,5 +1,8 @@
 ---
-description: Sketch is our interface design tool of choice.Everything about the system in Sketch is designed so our designers spend less time needlessly creating and re-inventing our system components, and more time focussing on user experience, iteration and building the best product. All in the interest of consistency and efficiency.
+description: >-
+  Sketch is our interface design tool of choice.Everything about the system in
+  Sketch is designed so our designers spend less time needlessly creating and
+  re-inventing our system components, and more ti
 ---
 
 # Sketch
@@ -12,7 +15,9 @@ You can download the latest version of Sketch here: [https://sketchapp.com↗](h
 
 {% hint style="danger" %}
 **Please turn off the auto save feature in Sketch's preferences before opening any Sketch files**
-{% endhint %}
 
 This feature is turned on by default, so you'll need to manually go and turn it off. It's very easy to unwittingly make changes while viewing a Sketch file with the auto save on. Also, auto save doesn't play nicely with Adobe Creative Cloud storage, creating multiple 'conflicted copies', leading to clutter and confusion.
+{% endhint %}
+
+
 

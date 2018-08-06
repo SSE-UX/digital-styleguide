@@ -1,7 +1,3 @@
----
-description: 'Buttons are used to initiate, navigate through or complete a process.'
----
-
 # Buttons
 
 ## Button labels

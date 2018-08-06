@@ -1,9 +1,3 @@
----
-description: >-
-  Ensuring there is enough space around text allows the content to breathe and
-  aids readability.
----
-
 # Spacing
 
 ## Headings & body copy
