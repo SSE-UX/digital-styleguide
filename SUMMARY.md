@@ -1,8 +1,6 @@
 # Table of contents
 
-* [Buttons](README.md)
-* [Introduction](introduction.md)
-* [Change Control](change-control.md)
+* [Welcome to the SSE Digital Styleguide](README.md)
 * [Our Design System](how-this-styleguide-is-structured.md)
 * [Core UX Principles](our-core-ux-principles.md)
 * [Foundations](foundations/README.md)
