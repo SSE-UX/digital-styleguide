@@ -1,4 +1,4 @@
-# Headings
+# Header Styles
 
 {% hint style="warning" %}
 **Note:** All CSS shown is for basic styling purposes. The intention is not to represent publishable code but to help designers & developers foster a common understanding of the specifications.
@@ -9,7 +9,7 @@
 * Main page title
 * Should only be used once on a screen/page
 
-![](../../.gitbook/assets/h1.png)
+![](../.gitbook/assets/h1.png)
 
 ```css
 font-face: Museo Sans Rounded;
@@ -21,7 +21,7 @@ color: $primaryBlue or white;
 
 ## Section heading \(H2\)
 
-![](../../.gitbook/assets/h2.png)
+![](../.gitbook/assets/h2.png)
 
 ```css
 font-face: Museo Sans Rounded;
@@ -33,7 +33,7 @@ color: $primaryBlue or white;
 
 ## Sub-section heading \(H3\)
 
-![](../../.gitbook/assets/h3.png)
+![](../.gitbook/assets/h3.png)
 
 ```css
 font-face: Museo Sans Rounded;
@@ -45,7 +45,7 @@ color: $primaryBlue or white;
 
 ## Sub-sub section heading \(H4\)
 
-![](../../.gitbook/assets/h4.png)
+![](../.gitbook/assets/h4.png)
 
 ```css
 font-face: Museo Sans Rounded;
