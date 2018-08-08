@@ -1,10 +1,14 @@
 # Our Design System
 
-## Aim to be consistent, not uniform
+## A system that encourages consistency, not uniformity
 
 ![](.gitbook/assets/structure-overview.png)
 
-The SSE design system is comprised of three elemental parts: **foundations**, **components** and **patterns**. Deliberately basic, the nature of this system allows for flexibility in execution, ensuring that our work is **consistent but not uniform**. Consistency is important as it ensures our products remain familiar, but it should never be at the sacrifice of appropriateness.
+The SSE design system is comprised of three elemental parts: **foundations**, **components** and **patterns**. Deliberately basic, the nature of this system allows for flexibility in execution, ensuring that our work is **consistent but not uniform**.
+
+**Consistency** is a feeling of familiarity: with a brand, a service, or interactions. It helps guide users through a digital service and removes mental friction. As an example, all SSE websites don't have to look identical, but they should all look like they're part of the same digital family and, where appropriate, rely on the same conventions.
+
+**Uniformity** is where everything looks, feels and works the same. This is neither desirable or workable within digital: a mobile app relies on a completely different set of interaction paradigms to that of a website.
 
 ## Foundations
 

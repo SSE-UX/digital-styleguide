@@ -13,7 +13,7 @@
   * [Buttons](untitled/buttons-1.md)
   * [Button types](untitled/button-types.md)
 * [Patterns: Website](sse.co.uk/README.md)
-  * [Header Styles](sse.co.uk/headings.md)
+  * [Header styles](sse.co.uk/headings.md)
   * [Body styles](sse.co.uk/body-copy.md)
   * [Spacing](sse.co.uk/spacing.md)
 
