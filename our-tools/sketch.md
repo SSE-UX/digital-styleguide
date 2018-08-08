@@ -1,3 +1,7 @@
+---
+description: Sketch is our UI design tool.
+---
+
 # Sketch
 
 ## Where to get Sketch
