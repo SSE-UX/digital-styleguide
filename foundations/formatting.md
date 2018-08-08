@@ -6,6 +6,12 @@ description: >-
 
 # Data Formatting
 
+## General guidelines
+
+* Don’t design a UI to fit the words you have, design a UI that will fit any words or numbers it may need to. Consider all scenarios.
+* Think ‘responsively’ — design a UI that won’t break under any ‘strain’, be it browser width or the amount of text presented.
+* Think about vertical space — if your UI needs to cater for more lines of text, how well does the text wrap? Can it wrap? Should it?
+
 ## Date formatting
 
 ### Numerical Format for Dates
