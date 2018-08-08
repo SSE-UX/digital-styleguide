@@ -19,7 +19,7 @@ SSE's primary brand colors are used in all digital products. **These colours are
 
 ## Secondary colours
 
-These colours complement the primary palette and are used to convey meaning. **Not all secondary colours will be** [**WCAG 2.0 AA compliant**](https://www.w3.org/TR/WCAG20/#visual-audio-contrast)[ ****↗](https://www.w3.org/TR/WCAG20/#visual-audio-contrast) **when contrasted with white**.
+These colours complement the primary palette and are used to convey meaning. **Not all secondary colours will be** [**WCAG 2.0 AA compliant**](https://www.w3.org/TR/WCAG20/#visual-audio-contrast)[ ****↗](https://www.w3.org/TR/WCAG20/#visual-audio-contrast) **when contrasted with white, so care should be taken in their use**.
 
 | **Colour** | **Variable name** | **Example usage** | **Hex code** |
 | :--- | :--- | :--- | :--- |

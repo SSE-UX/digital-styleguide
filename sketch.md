@@ -1,7 +1,3 @@
----
-description: Sketch is our interface design tool of choice.
----
-
 # Sketch
 
 ## Where to get Sketch
