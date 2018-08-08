@@ -1,4 +1,6 @@
-# Button types
+# Buttons
+
+#### Refer to [Components/Buttons](../untitled/buttons-1.md) for an introduction to buttons & their usage.
 
 {% hint style="warning" %}
 **Note:** All CSS shown is for basic styling purposes. The intention is not to represent publishable code but to help designers & developers foster a common understanding of the specifications.
@@ -52,10 +54,6 @@ background-color: rgba(255,255,255,.8);
 
 /* Clicked */
 background-color: #F5F5F5;
-```
-
-```markup
-jguguhg
 ```
 
 

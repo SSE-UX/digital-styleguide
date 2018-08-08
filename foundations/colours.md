@@ -43,6 +43,10 @@ Used to convey soft or hard alert or error messages. **These colours are** [**WC
 
 ## Gradients
 
+{% hint style="warning" %}
+Gradients are likely being depreciated, so should not be overly used in any new design work
+{% endhint %}
+
 A gradient should only be used as a decorative element. **Do not place text over gradients.**
 
 | **Gradient** | **Start colour** | **End colour** |
