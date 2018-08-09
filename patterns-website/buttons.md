@@ -1,6 +1,6 @@
 # Buttons
 
-#### Refer to [Components/Buttons](../untitled/buttons-1.md) for an introduction to buttons & their usage.
+#### Refer to [Components/Buttons](../components/button-basics.md) for an introduction to buttons & their usage.
 
 {% hint style="warning" %}
 **Note:** All CSS shown is for basic styling purposes. The intention is not to represent publishable code but to help designers & developers foster a common understanding of the specifications.

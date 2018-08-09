@@ -1,3 +1,7 @@
+---
+description: These principles underpin everything the Digital Studio creates.
+---
+
 # Core UX Principles
 
 ## Design for All
@@ -20,13 +24,17 @@ We should strive to acquire a deep understanding of the problems we're trying to
 
 **People aren’t specialists in our products and services, so we shouldn’t speak to them like they are. No jargon or confusing interactions. Just simple, easy to understand language.**
 
-Have empathy for users, and remember that what they ask for isn’t always what they need.
+We live & breathe our products and systems, but our users do not. They don't understand acronyms or industry jargon so we shouldn't use them. Everything we create should be a reflection of how humans interact with one another: simple language, clear & obvious processes, helpful content. How well we communicate is determined not by how well we say things, but by how well we are understood.
 
 ## Clarity Over Clutter
 
-Our digital experiences are designed to be clear and simple to use, nothing un-necessary.
+**Our digital experiences are designed to be clear and simple to use, nothing un-necessary.**
+
+Everything we create should have a purpose. We understand that things like white space are design elements that help improve the usability of our work, giving our designs the space they need to breathe.
 
 ## Drive the Action
 
-We aim to guide our customers through clear and easy to understand journeys. Making the action obvious with a clear purpose.
+**We aim to guide our customers through clear and easy to understand journeys. Making the action obvious with a clear purpose.**
+
+Where there is an action to be taken, our designs will give them the right context to allow users to make informed decisions. Where there are options to choose from, our designs will help guide users towards making the right choices.
 

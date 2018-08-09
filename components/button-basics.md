@@ -1,4 +1,4 @@
-# Buttons
+# Button Basics
 
 ## Button labels
 

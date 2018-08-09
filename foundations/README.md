@@ -7,5 +7,5 @@
 * [Colours](colours.md)
 * [Typography](typography.md)
 * [Tone of voice](tone-of-voice.md)
-* [Data types](formatting.md)
+* [Data types](data-formatting.md)
 

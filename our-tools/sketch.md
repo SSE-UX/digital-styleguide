@@ -22,18 +22,27 @@ There are a variety of Sketch plugins we use to simplify aspects of our workflow
 
 ### Sketch Runner
 
-Sketch Runner is a powerful tool that allows you to run certain commands using keyboard shortcuts. This saves hunting through menus to find the commands you need. Once you've found which shortcuts you personally find useful, Runner starts to become a great time saver.
+A powerful tool that allows you to run certain commands using keyboard shortcuts. This saves hunting through menus to find the commands you need. Once you've found which shortcuts you personally find useful, Runner starts to become a great time saver.
 
 **Download:** [https://sketchrunner.com](https://sketchrunner.com/)[↗](https://sketchrunner.com/)
 
 ### Automate Sketch
 
-Automate Sketch is a bunch of useful commands that aren't built into Sketch by default. It's great for doing things like "Remove all symbols that aren't being used in this document".
+A bunch of useful commands that aren't built into Sketch by default. It's great for doing things like "Remove all symbols that aren't being used in this document".
 
 **Download:** [https://ashung.github.io/Automate-Sketch ↗](https://ashung.github.io/Automate-Sketch)
 
-  
+### Sketch Palettes
 
+Allows you to import & export colour palettes. Use it with the master SSE colour palette.
+
+**Download:** [https://github.com/andrewfiorillo/sketch-palettes ↗](https://github.com/andrewfiorillo/sketch-palettes)
+
+### Symbol Instance Renamer
+
+Rename symbol instances to the name of their master.
+
+**Download:** [https://github.com/sonburn/symbol-instance-renamer ↗](https://github.com/sonburn/symbol-instance-renamer)
 
 
 
