@@ -5,6 +5,7 @@
 * [Core UX Principles](our-core-ux-principles.md)
 * [Our Tools](our-tools/README.md)
   * [Sketch](our-tools/sketch.md)
+  * [Zeplin](our-tools/zeplin.md)
 * [Foundations](foundations/README.md)
   * [Colours](foundations/colours.md)
   * [Typography](foundations/typography.md)
