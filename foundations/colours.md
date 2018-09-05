@@ -23,7 +23,7 @@ These colours complement the primary palette and are used to convey meaning. **N
 
 | **Colour** | **Variable name** | **Example usage** | **Hex code** |
 | :--- | :--- | :--- | :--- |
-| ![](../.gitbook/assets/blue%20%284%29.png) | $secondaryBlue | Calls to action | `#004687` |
+| ![](../.gitbook/assets/blue%20%284%29.png) | $secondaryBlue | Calls to action | `#2B7BB9` |
 | ![](../.gitbook/assets/light-blue.png) | $secondaryLightBlue | Illustrations | `#A0C6E9` |
 | ![](../.gitbook/assets/dark-green.png) | $secondaryGreen | Illustrations | `#004B1C` |
 | ![](../.gitbook/assets/light-green.png) | $secondaryLightGreen | Illustrations | `#B2D235` |
@@ -52,4 +52,10 @@ A gradient should only be used as a decorative element. **Do not place text over
 | **Gradient** | **Start colour** | **End colour** |
 | :--- | :--- | :--- |
 | ![](../.gitbook/assets/digital-gradient.png) | `#004687` | `#7DC242` |
+
+## Checking colour contrast
+
+When using colour combinations, always check that their contrast is at least AA compliant. There are many online contrast checkers, but a nice one to use is [Colorable ↗](http://jxnblk.com/colorable/demos/text/?background=%23fff&foreground=%23004687).
+
+
 

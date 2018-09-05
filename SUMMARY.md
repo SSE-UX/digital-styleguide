@@ -14,8 +14,10 @@
 * [Components](components/README.md)
   * [Button Basics](components/button-basics.md)
 * [Patterns: Website](patterns-website/README.md)
-  * [Header styles](patterns-website/header-styles.md)
-  * [Body styles](patterns-website/body-styles.md)
-  * [Spacing](patterns-website/spacing.md)
+  * [Breakpoints](patterns-website/breakpoints.md)
+  * [Typography: Website](patterns-website/typography-website/README.md)
+    * [Header styles](patterns-website/typography-website/header-styles.md)
+    * [Body styles](patterns-website/typography-website/body-styles.md)
+    * [Spacing](patterns-website/typography-website/spacing.md)
   * [Buttons](patterns-website/buttons.md)
 

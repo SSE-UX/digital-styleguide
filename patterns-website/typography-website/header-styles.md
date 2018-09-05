@@ -9,7 +9,7 @@
 * Main page title
 * Should only be used once on a screen/page
 
-![](../.gitbook/assets/h1.png)
+![](../../.gitbook/assets/h1.png)
 
 ```css
 font-face: Museo Sans Rounded;
@@ -19,9 +19,17 @@ line-height: 54px;
 color: $primaryBlue or white;
 ```
 
+### X-Small breakpoint overrides
+
+```css
+font-weight: 500;
+font-size: 32px;
+line-height: 38px;
+```
+
 ## Section heading \(H2\)
 
-![](../.gitbook/assets/h2.png)
+![](../../.gitbook/assets/h2.png)
 
 ```css
 font-face: Museo Sans Rounded;
@@ -31,9 +39,16 @@ line-height: 38px;
 color: $primaryBlue or white;
 ```
 
+### X-Small breakpoint overrides
+
+```css
+font-size: 26px;
+line-height: 32px;
+```
+
 ## Sub-section heading \(H3\)
 
-![](../.gitbook/assets/h3.png)
+![](../../.gitbook/assets/h3.png)
 
 ```css
 font-face: Museo Sans Rounded;
@@ -43,9 +58,16 @@ line-height: 30px;
 color: $primaryBlue or white;
 ```
 
+### X-Small breakpoint overrides
+
+```css
+font-size: 22px;
+line-height: 28px;
+```
+
 ## Sub-sub section heading \(H4\)
 
-![](../.gitbook/assets/h4.png)
+![](../../.gitbook/assets/h4.png)
 
 ```css
 font-face: Museo Sans Rounded;
@@ -53,5 +75,13 @@ font-weight: 700;
 font-size: 16px;
 line-height: 22px;
 color: $primaryBlue or white;
+```
+
+### X-Small breakpoint overrides
+
+```css
+font-weight: 700;
+font-size: 16px;
+line-height: 22px;
 ```
 
