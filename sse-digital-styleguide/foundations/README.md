@@ -1,6 +1,6 @@
 # Foundations
 
-![](../.gitbook/assets/structure-foundations.png)
+![](../../.gitbook/assets/structure-foundations.png)
 
 ### Jump to:
 

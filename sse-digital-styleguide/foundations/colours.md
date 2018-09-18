@@ -14,8 +14,8 @@ SSE's primary brand colors are used in all digital products. **These colours are
 
 | **Colour** | **Variable name** | **Example usage** | **Hex code** |
 | :--- | :--- | :--- | :--- |
-| ![](../.gitbook/assets/blue%20%282%29.png) | $primaryBlue | Headings, labels, titles | `#004687` |
-| ![](../.gitbook/assets/green%20%282%29.png) | $primaryGreen | Icons, bullet points, highlights | `#469638` |
+| ![](../../.gitbook/assets/blue%20%282%29.png) | $primaryBlue | Headings, labels, titles | `#004687` |
+| ![](../../.gitbook/assets/green%20%282%29.png) | $primaryGreen | Icons, bullet points, highlights | `#469638` |
 
 ## Secondary colours
 
@@ -23,14 +23,14 @@ These colours complement the primary palette and are used to convey meaning. **N
 
 | **Colour** | **Variable name** | **Example usage** | **Hex code** |
 | :--- | :--- | :--- | :--- |
-| ![](../.gitbook/assets/blue%20%284%29.png) | $secondaryBlue | Calls to action | `#2B7BB9` |
-| ![](../.gitbook/assets/light-blue.png) | $secondaryLightBlue | Illustrations | `#A0C6E9` |
-| ![](../.gitbook/assets/dark-green.png) | $secondaryGreen | Illustrations | `#004B1C` |
-| ![](../.gitbook/assets/light-green.png) | $secondaryLightGreen | Illustrations | `#B2D235` |
-| ![](../.gitbook/assets/dark-grey.png) | $secondaryDarkGrey | Text | `#212121` |
-| ![](../.gitbook/assets/grey.png) | $secondaryMidGrey | Text | `#616161` |
-| ![](../.gitbook/assets/mid-grey.png) | $secondaryGrey | Linework | `#BDBDBD` |
-| ![](../.gitbook/assets/light-grey.png) | $secondaryLightGrey | Backgrounds, content sections | `#F5F5F5` |
+| ![](../../.gitbook/assets/blue%20%284%29.png) | $secondaryBlue | Calls to action | `#2B7BB9` |
+| ![](../../.gitbook/assets/light-blue.png) | $secondaryLightBlue | Illustrations | `#A0C6E9` |
+| ![](../../.gitbook/assets/dark-green.png) | $secondaryGreen | Illustrations | `#004B1C` |
+| ![](../../.gitbook/assets/light-green.png) | $secondaryLightGreen | Illustrations | `#B2D235` |
+| ![](../../.gitbook/assets/dark-grey.png) | $secondaryDarkGrey | Text | `#212121` |
+| ![](../../.gitbook/assets/grey.png) | $secondaryMidGrey | Text | `#616161` |
+| ![](../../.gitbook/assets/mid-grey.png) | $secondaryGrey | Linework | `#BDBDBD` |
+| ![](../../.gitbook/assets/light-grey.png) | $secondaryLightGrey | Backgrounds, content sections | `#F5F5F5` |
 
 ## Alert colours
 
@@ -38,8 +38,8 @@ Used to convey soft or hard alert or error messages. **These colours are** [**WC
 
 | **Colour** | **Variable name** | **Example usage** | **Hex code** |
 | :--- | :--- | :--- | :--- |
-| ![](../.gitbook/assets/orange.png) | $alertOrange | Soft warnings | `#FFB100` |
-| ![](../.gitbook/assets/red.png) | $alertRed | Hard warnings or errors | `#E62128` |
+| ![](../../.gitbook/assets/orange.png) | $alertOrange | Soft warnings | `#FFB100` |
+| ![](../../.gitbook/assets/red.png) | $alertRed | Hard warnings or errors | `#E62128` |
 
 ## Gradients
 
@@ -49,9 +49,9 @@ Gradients are likely being depreciated, so should not be overly used in any new 
 
 A gradient should only be used as a decorative element. **Do not place text over gradients.**
 
-| **Gradient** | **Start colour** | **End colour** |
-| :--- | :--- | :--- |
-| ![](../.gitbook/assets/digital-gradient.png) | `#004687` | `#7DC242` |
+| **Gradient** | Variable name | **Start colour** | **End colour** |
+| :--- | :--- | :--- | :--- |
+| ![](../../.gitbook/assets/digital-gradient.png) | $sseGradient | `#004687` | `#7DC242` |
 
 ## Checking colour contrast
 

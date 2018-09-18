@@ -14,11 +14,11 @@ SSE Digital products use Museo Sans Rounded and PT Sans.
 
 Used for headings, sub-headings and buttons. This is a commercial font which cannot be downloaded for free. If you need Museo installed on your machine, speak to your line manager.
 
-![](../.gitbook/assets/museo-sans.png)
+![](../../.gitbook/assets/museo-sans.png)
 
 ### PT Sans
 
 Can be used for body copy, captions, hyperlinks etc. PT Sans is a free font which can be [downloaded from Google Fonts ↗](https://fonts.google.com/specimen/PT+Sans).
 
-![PT Sans comes in regular &amp; bold weights, both of which support italicised text.](../.gitbook/assets/pt-sans%20%281%29.png)
+![PT Sans comes in regular &amp; bold weights, both of which support italicised text.](../../.gitbook/assets/pt-sans%20%281%29.png)
 

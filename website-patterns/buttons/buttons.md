@@ -1,6 +1,6 @@
 # Buttons
 
-#### Refer to [Components: Button Basics](../components/button-basics.md) for an introduction to buttons & their usage.
+#### Refer to [Components: Buttons](../../sse-digital-styleguide/components/button-basics.md) for an introduction to buttons & their usage.
 
 {% hint style="warning" %}
 **Note:** All CSS shown is for basic styling purposes. The intention is not to represent publishable code but to help designers & developers foster a common understanding of the specifications.
@@ -9,11 +9,11 @@
 ## Spacing & global styling
 
 * Buttons have left/right padding of 32px.
-* Buttons contained in narrow spaces or displayed on smaller viewports should fill 100% of the width available to them. This helps with cleaner alignment with other elements in that column, and also aligns multiple buttons when stacked.
+* Buttons contained in narrow spaces or used in the X-Small breakpoint should fill 100% of the width available to them. This helps with cleaner alignment with other elements in that column, and also aligns multiple buttons when stacked.
 * If multiple buttons are horizontally aligned, there should be a 25px margin separating them.
 * If multiple buttons are stacked vertically, there should be a 16px margin separating them.
 
-![](../.gitbook/assets/button-spec.png)
+![](../../.gitbook/assets/button-spec.png)
 
 ```css
 font-face: Museo Sans Rounded;
@@ -30,7 +30,7 @@ line-height: 24px;
 
 ### Light theme
 
-![](../.gitbook/assets/primary-button.png)
+![](../../.gitbook/assets/primary-button.png)
 
 ```css
 /* Normal */
@@ -46,7 +46,7 @@ background-color: #0066CC;
 
 ### Dark theme
 
-![](../.gitbook/assets/primary-button-dark.png)
+![](../../.gitbook/assets/primary-button-dark.png)
 
 ```css
 /* Styling is as per 'light' theme plus */
@@ -61,7 +61,7 @@ border: 2px solid #FFF;
 
 ### Light theme
 
-![](../.gitbook/assets/secondary-button%20%281%29.png)
+![](../../.gitbook/assets/secondary-button%20%281%29.png)
 
 ```css
 /* Normal */
@@ -78,7 +78,7 @@ background-color: #F5F5F5;
 
 ### Dark theme
 
-![](../.gitbook/assets/secondary-button-dark.png)
+![](../../.gitbook/assets/secondary-button-dark.png)
 
 {% hint style="danger" %}
 Editor's note: the styling of this button needs defining.
@@ -90,7 +90,7 @@ Editor's note: the styling of this button needs defining.
 
 ### Light & dark themes
 
-![](../.gitbook/assets/secondary-button-alt.png)
+![](../../.gitbook/assets/secondary-button-alt.png)
 
 ```css
 /* Normal */
@@ -113,7 +113,7 @@ border: 2px solid #D3D3D3;
 
 ### Light theme
 
-![](../.gitbook/assets/destructive-button.png)
+![](../../.gitbook/assets/destructive-button.png)
 
 ```css
 /* Normal */
@@ -129,7 +129,7 @@ background-color: #CC0000;
 
 ### Dark theme
 
-![](../.gitbook/assets/destructive-button-dark.png)
+![](../../.gitbook/assets/destructive-button-dark.png)
 
 ```css
 /* Styling is as per 'light' theme plus */
@@ -145,7 +145,7 @@ border: 2px solid #FFF;
 
 ### Light theme
 
-![](../.gitbook/assets/conversion-button.png)
+![](../../.gitbook/assets/conversion-button.png)
 
 ```css
 /* Normal */
@@ -164,7 +164,7 @@ background-color: $primaryGreen (50% opacity);
 
 ### Dark theme
 
-![](../.gitbook/assets/primary-button.png)
+![](../../.gitbook/assets/primary-button.png)
 
 ```css
 /* Normal */
@@ -185,7 +185,7 @@ background-color: $primaryGreen (50% opacity);
 
 * Used to cancel an entire process.
 
-![](../.gitbook/assets/cancel-button.png)
+![](../../.gitbook/assets/cancel-button.png)
 
 ```css
 /* Normal */

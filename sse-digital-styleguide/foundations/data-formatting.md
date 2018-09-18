@@ -4,7 +4,7 @@ description: >-
   and date can make a big difference to the usability of our products.
 ---
 
-# Data Formatting
+# Data Formatting \(i\)
 
 ## General guidelines
 

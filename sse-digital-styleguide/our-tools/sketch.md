@@ -16,13 +16,13 @@ You can download the latest version of Sketch here: [https://sketchapp.com↗](h
 
 This feature is turned on by default, so you'll need to manually go and turn it off. It's very easy to unwittingly make changes while viewing a Sketch file with auto save on. Also, auto save doesn't play nicely with Adobe Creative Cloud storage, creating multiple 'conflicted copies', leading to clutter and confusion.
 
-![Turn off &apos;auto save&apos; in Sketch&apos;s preferences](../.gitbook/assets/sketch-autosave.jpg)
+![Turn off &apos;auto save&apos; in Sketch&apos;s preferences](../../.gitbook/assets/sketch-autosave.jpg)
 
 ## The SSE Digital Sketch Library
 
 We have a centralised, global asset library that contains all the components required to build digital SSE products. Once you install Sketch, you'll need to add the library from within Sketch's preferences:
 
-![Add the SSE Digital library in Sketch&apos;s preferences](../.gitbook/assets/sketch-add-library.jpg)
+![Add the SSE Digital library in Sketch&apos;s preferences](../../.gitbook/assets/sketch-add-library.jpg)
 
 ## Useful Sketch plugins
 
