@@ -38,5 +38,4 @@
 * [Breakpoints \(i\)](new-suggestions/breakpoints.md)
 * [Tone of Voice \(i\)](new-suggestions/tone-of-voice.md)
 * [Data Formatting \(i\)](new-suggestions/data-formatting.md)
-* [Untitled](new-suggestions/untitled.md)
 
