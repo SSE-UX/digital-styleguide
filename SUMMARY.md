@@ -34,6 +34,7 @@
   * [Dropdown Menus](website-patterns/form-elements/dropdown-menus.md)
   * [Checkboxes](website-patterns/form-elements/checkboxes.md)
   * [Radio Buttons](website-patterns/form-elements/radio-buttons.md)
+  * [Tooltips](website-patterns/form-elements/tooltips.md)
 * [Tables](website-patterns/tables.md)
 
 ## New Suggestions
