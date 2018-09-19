@@ -32,6 +32,8 @@
 * [Form Elements](website-patterns/form-elements/README.md)
   * [Text Fields](website-patterns/form-elements/text-fields.md)
   * [Dropdown Menus](website-patterns/form-elements/dropdown-menus.md)
+  * [Checkboxes](website-patterns/form-elements/checkboxes.md)
+* [Tables](website-patterns/tables.md)
 
 ## New Suggestions
 
