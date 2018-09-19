@@ -33,7 +33,11 @@ description: >-
 | 03 August 2018 | August 3rd |
 | 03 Aug 2018 | 03 August 2018 \(if space dictates\) |
 
-## Numbers & currency
+{% hint style="danger" %}
+**Editor's note:** other areas to add:
 
-## Our products
+* Numbers & currency
+* Our products
+* ...?
+{% endhint %}
 

@@ -81,7 +81,7 @@ background-color: #F5F5F5;
 ![](../../.gitbook/assets/secondary-button-dark.png)
 
 {% hint style="danger" %}
-Editor's note: the styling of this button needs defining.
+**Editor's note:** the styling of this button needs defining.
 {% endhint %}
 
 ## Secondary button \(alternate\)

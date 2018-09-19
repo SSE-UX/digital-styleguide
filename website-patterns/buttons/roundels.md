@@ -66,7 +66,7 @@ border: 4px solid #FFF (50% opacity);
 
 ## Roundel with icon
 
-Roundels can be used with icons instead of text. The styling for various states is as above.
+Roundels can be used with icons & a text label.
 
 ![](../../.gitbook/assets/roundel-icon.png)
 
@@ -75,6 +75,7 @@ font-face: Museo Sans Rounded;
 font-weight: 700;
 font-size: 16px;
 line-height: 24px;
+icon-height: 50px;
 ```
 
 

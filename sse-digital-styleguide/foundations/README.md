@@ -6,6 +6,6 @@
 
 * [Colours](colours.md)
 * [Typography](typography.md)
-* [Tone of voice](tone-of-voice.md)
-* [Data types](data-formatting.md)
+* [Tone of voice](../../new-suggestions/tone-of-voice.md)
+* [Data types](../../new-suggestions/data-formatting.md)
 

@@ -12,14 +12,11 @@
 * [Foundations](sse-digital-styleguide/foundations/README.md)
   * [Colours](sse-digital-styleguide/foundations/colours.md)
   * [Typography](sse-digital-styleguide/foundations/typography.md)
-  * [Data Formatting \(i\)](sse-digital-styleguide/foundations/data-formatting.md)
-  * [Tone of Voice \(i\)](sse-digital-styleguide/foundations/tone-of-voice.md)
 * [Components](sse-digital-styleguide/components/README.md)
   * [Buttons](sse-digital-styleguide/components/button-basics.md)
 
 ## Website Patterns
 
-* [Breakpoints \(i\)](website-patterns/breakpoints.md)
 * [Typography](website-patterns/typography-website/README.md)
   * [Header Styles](website-patterns/typography-website/header-styles.md)
   * [Body Styles](website-patterns/typography-website/body-styles.md)
@@ -31,8 +28,15 @@
   * [Standalone Links](website-patterns/buttons/standalone-links.md)
 * [Progress Bar \(depreciated\)](website-patterns/progress-bar-depreciated.md)
 * [Accordions](website-patterns/accordions.md)
-* [Toggles \(i\)](website-patterns/toggles.md)
+* [Toggles](website-patterns/toggles.md)
 * [Form Elements](website-patterns/form-elements/README.md)
   * [Text Fields](website-patterns/form-elements/text-fields.md)
   * [Dropdown Menus](website-patterns/form-elements/dropdown-menus.md)
+
+## New Suggestions
+
+* [Breakpoints \(i\)](new-suggestions/breakpoints.md)
+* [Tone of Voice \(i\)](new-suggestions/tone-of-voice.md)
+* [Data Formatting \(i\)](new-suggestions/data-formatting.md)
+* [Untitled](new-suggestions/untitled.md)
 
