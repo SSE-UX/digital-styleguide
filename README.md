@@ -1,14 +1,20 @@
 # Introduction
 
-If you're new to SSE, start with our [Core UX Principles](sse-digital-styleguide/our-core-ux-principles.md). You could also read about the [tools we use](sse-digital-styleguide/our-tools/).
+### Welcome to the SSE Digital Styleguide.
 
-If you're looking for a deeper understanding of our design system, read about [how it's structured](sse-digital-styleguide/our-design-system.md).
+This styleguide is an evolving document and will continue to be updated as we develop our digital offering. The intent is for it to contain everything required to start designing an SSE Digital Product.
 
-Or you can dive into the details on styling of our [website]() or mobile app.
+### New to SSE?
+
+If you're new to SSE, start with our [Core UX Principles](sse-digital-styleguide/our-core-ux-principles.md). You can also read about the [tools we use](sse-digital-styleguide/our-tools/).
+
+### Feedback
+
+The UX team encourage feedback on this document – please [drop us a note](mailto:ux@sse.com) if you have any problems, thoughts or suggestions.
 
 ### Version Control
 
-| Version | Date | Desc | Author |
+| Version | Date | Description | Author |
 | :--- | :--- | :--- | :--- |
 | 0.0.1 | 01/10/2018 | Initial Document | JW |
 
