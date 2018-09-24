@@ -37,6 +37,7 @@
   * [Tooltips](website-patterns/form-elements/tooltips.md)
   * [Widths & Spacing](website-patterns/form-elements/input-widths.md)
 * [Tables](website-patterns/tables.md)
+* [Lightboxes](website-patterns/lightboxes.md)
 
 ## New Suggestions
 

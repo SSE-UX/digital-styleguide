@@ -1,5 +1,9 @@
 # Colours
 
+{% hint style="danger" %}
+**Editor's note:** colour wheel?
+{% endhint %}
+
 ## Using colours
 
 These colours form the core palette for all SSE digital products. Where appropriate, examples of usage are given but these are not absolute – refer to any supplied Sketch files or Zeplin links for specific usage.

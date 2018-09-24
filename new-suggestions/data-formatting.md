@@ -38,6 +38,9 @@ description: >-
 
 * Numbers & currency
 * Our products
+* **Capturing common data \(e.g. DoB\)**
 * ...?
 {% endhint %}
+
+
 
