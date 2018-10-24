@@ -46,8 +46,6 @@ Click the 'Add Library to Sketch' button. This will then prompt you:
 
  Once you install Sketch, you'll need to add the library from within Sketch's preferences:
 
-![Add the SSE Digital library in Sketch&apos;s preferences](../../.gitbook/assets/sketch-add-library.jpg)
-
 ## Useful Sketch plugins
 
 There are a variety of Sketch plugins we use to simplify aspects of our workflow.
