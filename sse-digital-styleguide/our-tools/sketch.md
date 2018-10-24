@@ -12,15 +12,35 @@ You can download the latest version of Sketch here: [https://sketchapp.com↗](h
 
 Once installed, follow these steps to get Sketch all set up.
 
-### 1. Turn off 'Auto Save' BEFORE opening any Sketch files
+### 1. Turn off 'Auto Save'
 
-This feature is turned on by default, so you'll need to manually go and turn it off in Sketch's preferences. It's very easy to unwittingly make changes while viewing a Sketch file with auto save on. Plus any good design workflow involves saving at regular intervals 
+This feature is turned on by default, so you'll need to manually go and turn it off in Sketch's preferences. **Please do this before opening any Sketch files.** It's very easy to unwittingly make changes while viewing a Sketch file if auto save is turned on.
 
-![Make sure the &apos;Auto Save&apos; checkbox is unchecked before opening any Sketch files](../../.gitbook/assets/sketch-autosave.jpg)
+![](../../.gitbook/assets/sketch-auto-save.jpg)
 
-## The SSE Digital Sketch Library
+### 2. Sign into Sketch Cloud
 
-We have a master Sketch library that contains all the components required to build digital SSE products. We store this in Sketch Cloud so that any updates are instantly available to everyone.
+We use Sketch Cloud to store & distribute our Digital Library. You'll need to sign in using the SSE UX credentials – clicking 'Sign In...' takes you to a browser where you log in.
+
+![Sign in to Sketch Cloud via Sketch&apos;s preferences](../../.gitbook/assets/sketch-cloud-prefs.png)
+
+Once you're logged in, you should be redirected back to Sketch.
+
+![You&apos;re now signed into Sketch Cloud!](../../.gitbook/assets/sketch-cloud-prefs-signed-in.png)
+
+### 3. Add the Digital Sketch Library
+
+We have a master Sketch library that contains all the components required to build digital SSE products. We store this in Sketch Cloud so that any updates are instantly available to everyone. To add the library to Sketch, go back to Sketch Cloud in the browser \(if you've closed the browser visit [https://sketch.cloud/documents/all-documents↗](https://sketch.cloud/documents/all-documents) to go back\).
+
+Click the 'SSE Digital Library' to view the file – you should see two buttons in the bottom right of the browser window. 
+
+![](../../.gitbook/assets/add-library.png)
+
+Click the 'Add Library to Sketch' button. This will then prompt you:
+
+![](../../.gitbook/assets/add-library-prompt.png)
+
+
 
 
 
