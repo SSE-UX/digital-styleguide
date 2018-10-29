@@ -42,13 +42,23 @@ Click the 'Add Library to Sketch' button. This will then prompt you that you nee
 
 ![](../../.gitbook/assets/sketch-cloud-prompt.jpg)
 
-![](../../.gitbook/assets/add-library-prompt.png)
-
 You should then be directed back to Sketch where you'll see the Digital Library in Preferences &gt; Libraries.
 
 ### 2. Download the Digital Library
 
- Now that you've added the Digital Library to Sketch, you'll need to download it to use it.
+ Now that you've added the Digital Library to Sketch, you'll need to download it to use it. Clicking the 'Download' button in Preferences &gt; Libraries will download the Digital Library.
+
+![](../../.gitbook/assets/sketch-prefs.jpg)
+
+## Using the Digital Library
+
+If you're familiar with how to use Libraries, Symbols and Overrides in Sketch, you'll be able to start using the Digital Library straight away. If you're not familiar with these features, the official Sketch website has some great starter content.
+
+{% embed url="https://sketchapp.com/docs/libraries/" %}
+
+{% embed url="https://sketchapp.com/docs/symbols/" %}
+
+{% embed url="https://sketchapp.com/docs/symbols/overrides/" %}
 
 ## Useful Sketch plugins
 
