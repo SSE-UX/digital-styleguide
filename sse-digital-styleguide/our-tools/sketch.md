@@ -1,5 +1,8 @@
 ---
-description: Sketch is our UI design tool.
+description: >-
+  Sketch is our UI design tool. It's fast, perfect for UI work and gets regular
+  updates. It integrates nicely with a bunch of other tools we use and is
+  eminently extendable via plugins.
 ---
 
 # Sketch
@@ -66,6 +69,20 @@ The SSE Digital Library is a living, breathing document and is updated as & when
 
 ![Sketch will notify you when updates are available to download.](../../.gitbook/assets/library-update-ready.jpg)
 
+### 1. Download the updated Library file
+
+Clicking the notification within Sketch \(or navigating to Preferences &gt; Libraries\) will show the SSE Digital Library with an option to 'Update'.
+
+![](../../.gitbook/assets/sketch-update-download.jpg)
+
+### 2. Update symbols & instances
+
+Once you've got the updated Library, Sketch will prompt you in the top-right of the app window that the updated library is ready. Clicking this notification will open a sheet showing what's changed.
+
+![When you see this, updates are available!](../../.gitbook/assets/lib-update-available.jpg)
+
+![A sheet explains what&apos;s new in this version of the Library.](../../.gitbook/assets/lib-update-details.jpg)
+
 ## Useful Sketch plugins
 
 There are a variety of Sketch plugins we use to simplify aspects of our workflow.
@@ -74,25 +91,25 @@ There are a variety of Sketch plugins we use to simplify aspects of our workflow
 
 A powerful tool that allows you to run certain commands using keyboard shortcuts. This saves hunting through menus to find the commands you need. Once you've found which shortcuts you personally find useful, Runner starts to become a great time saver.
 
-**Download:** [https://sketchrunner.com](https://sketchrunner.com/)[↗](https://sketchrunner.com/)
+[https://sketchrunner.com](https://sketchrunner.com/)[↗](https://sketchrunner.com/)
 
 ### Automate Sketch
 
 A bunch of useful commands that aren't built into Sketch by default. It's great for doing things like "Remove all symbols that aren't being used in this document".
 
-**Download:** [https://ashung.github.io/Automate-Sketch ↗](https://ashung.github.io/Automate-Sketch)
+[https://ashung.github.io/Automate-Sketch ↗](https://ashung.github.io/Automate-Sketch)
 
 ### Sketch Palettes
 
 Allows you to import & export colour palettes. Use it with the master SSE colour palette.
 
-**Download:** [https://github.com/andrewfiorillo/sketch-palettes ↗](https://github.com/andrewfiorillo/sketch-palettes)
+\*\*\*\*[https://github.com/andrewfiorillo/sketch-palettes ↗](https://github.com/andrewfiorillo/sketch-palettes)
 
 ### Symbol Instance Renamer
 
 Rename symbol instances to the name of their master.
 
-**Download:** [https://github.com/sonburn/symbol-instance-renamer ↗](https://github.com/sonburn/symbol-instance-renamer)
+[https://github.com/sonburn/symbol-instance-renamer ↗](https://github.com/sonburn/symbol-instance-renamer)
 
 
 
