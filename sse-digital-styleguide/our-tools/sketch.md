@@ -28,23 +28,27 @@ Once you're logged in, you should be redirected back to Sketch.
 
 ![You&apos;re now signed into Sketch Cloud!](../../.gitbook/assets/sketch-cloud-prefs-signed-in.png)
 
-### 3. Add the Digital Sketch Library
+## Adding the Digital Sketch Library
 
-We have a master Sketch library that contains all the components required to build digital SSE products. We store this in Sketch Cloud so that any updates are instantly available to everyone. To add the library to Sketch, go back to Sketch Cloud in the browser \(if you've closed the browser visit [https://sketch.cloud/documents/all-documents↗](https://sketch.cloud/documents/all-documents) to go back\).
+We have a master Sketch library that contains all the components required to build digital SSE products. We store this in Sketch Cloud so that any updates are instantly available to everyone.
 
-Click the 'SSE Digital Library' to view the file – you should see two buttons in the bottom right of the browser window. 
+### 1. Add the Digital Library to Sketch
 
-![](../../.gitbook/assets/add-library.png)
+To add the library to Sketch, go to Sketch Cloud \([https://sketch.cloud/documents/all-documents↗](https://sketch.cloud/documents/all-documents)\) and click the 'SSE Digital Library' to view the file. You should see two buttons in the bottom right of the browser window.
 
-Click the 'Add Library to Sketch' button. This will then prompt you:
+![](../../.gitbook/assets/sketch-cloud.jpg)
+
+Click the 'Add Library to Sketch' button. This will then prompt you that you need Sketch installed to use shared libraries. Click the orange 'Add Library to Sketch' button.
+
+![](../../.gitbook/assets/sketch-cloud-prompt.jpg)
 
 ![](../../.gitbook/assets/add-library-prompt.png)
 
+You should then be directed back to Sketch where you'll see the Digital Library in Preferences &gt; Libraries.
 
+### 2. Download the Digital Library
 
-
-
- Once you install Sketch, you'll need to add the library from within Sketch's preferences:
+ Now that you've added the Digital Library to Sketch, you'll need to download it to use it.
 
 ## Useful Sketch plugins
 
