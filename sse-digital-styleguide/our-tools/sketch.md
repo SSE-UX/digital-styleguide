@@ -60,6 +60,12 @@ If you're familiar with how to use Libraries, Symbols and Overrides in Sketch, y
 
 {% embed url="https://sketchapp.com/docs/symbols/overrides/" %}
 
+## Updating the Digital Library
+
+The SSE Digital Library is a living, breathing document and is updated as & when required. When an update is available, Sketch will notify you \(ensure that notifications are turned on for Sketch in your system preferences\).
+
+![Sketch will notify you when updates are available to download.](../../.gitbook/assets/library-update-ready.jpg)
+
 ## Useful Sketch plugins
 
 There are a variety of Sketch plugins we use to simplify aspects of our workflow.
