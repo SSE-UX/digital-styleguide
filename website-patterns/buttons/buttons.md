@@ -27,7 +27,7 @@ line-height: 24px;
 
 ### Light theme
 
-![](../../.gitbook/assets/primary-button.png)
+![](../../.gitbook/assets/primary-button%20%281%29.png)
 
 ```css
 /* Normal */
@@ -35,19 +35,19 @@ background-color: $secondaryBlue;
 color: #FFF;
 
 /* Hover */
-background-color: $secondaryBlue (80% opacity);
-
-/* Clicked */
-background-color: #0066CC;
+background-color: #23699F;
 ```
 
 ### Dark theme
 
-![](../../.gitbook/assets/primary-button-dark.png)
+![](../../.gitbook/assets/primary-button-dark%20%281%29.png)
 
 ```css
 /* Styling is as per 'light' theme plus */
 border: 2px solid #FFF;
+
+/* Hover */
+background-color: #003E79;
 ```
 
 ## Secondary button
@@ -160,8 +160,6 @@ background-color: $primaryGreen (50% opacity);
 ```
 
 ### Dark theme
-
-![](../../.gitbook/assets/primary-button.png)
 
 ```css
 /* Normal */
