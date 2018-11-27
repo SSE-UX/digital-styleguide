@@ -67,21 +67,98 @@ color: $secondaryBlue;
 border: 2px solid $secondaryBlue;
 
 /* Hover */
-background-color: #FFF (80% opacity);
-
-/* Clicked */
-background-color: #F5F5F5;
+background-color: #E5E5E5;
 ```
 
 ### Dark theme
 
-![](../../.gitbook/assets/secondary-button-dark.png)
+![](../../.gitbook/assets/secondary-button-dark%20%281%29.png)
 
-{% hint style="danger" %}
-**Editor's note:** the styling of this button needs defining.
-{% endhint %}
+```css
+/* Normal */
+background-color: $primaryBlue;
+color: #FFF;
+border: 2px solid #FFF;
 
-## Secondary button \(alternate\)
+/* Hover */
+background-color: #003E79;
+```
+
+## Destructive button
+
+* Used to represent actions that are destructive and non-recoverable.
+
+### Light theme
+
+![](../../.gitbook/assets/destructive-button.png)
+
+```css
+/* Normal */
+background-color: $alertRed;
+color: #FFF;
+
+/* Hover */
+background-color: #C7161C;
+```
+
+### Dark theme
+
+![](../../.gitbook/assets/destructive-button-dark.png)
+
+```css
+/* Styling is as per 'light' theme plus */
+border: 2px solid #FFF;
+```
+
+## Conversion button
+
+* Used on the penultimate screen of an acquisition, application or process journey, usually on a review or confirm screen.
+* This is the only button style that has a 'disabled' state.
+* The button is presented as disabled if the user needs to complete one or more actions on the review/confirm screen before completing the process.
+
+### Light theme
+
+![](../../.gitbook/assets/conversion-button.png)
+
+```css
+/* Normal */
+background-color: $primaryGreen;
+color: #FFFFFF;
+
+/* Hover */
+background-color: #177407;
+```
+
+### Dark theme
+
+![](../../.gitbook/assets/conversion-button-dark.png)
+
+```css
+/* Styling is as per 'light' theme plus */
+border: 2px solid #FFF;
+```
+
+## Cancel button  \(DEPRECIATED?\)
+
+* Used to cancel an entire process.
+
+![](../../.gitbook/assets/cancel-button.png)
+
+```css
+/* Normal */
+color: $secondaryMidGrey;
+
+/* Hover */
+background-color: $secondaryLightGrey;
+border: 2px solid #E8E8E8;
+
+/* Clicked */
+border: 2px solid #D3D3D3;
+```
+
+
+
+## Secondary button \(alternate\) \(DEPRECIATED?\)
 
 * An alternative to the regular secondary button style, can be used where there is a less important actions compared to a regular secondary button.
 
@@ -101,96 +178,6 @@ border: 2px solid $secondaryMidGrey;
 
 /* Clicked */
 background-color: $secondaryLightGrey;
-border: 2px solid #D3D3D3;
-```
-
-## Destructive action button
-
-* Used to represent actions that are destructive and non-recoverable.
-
-### Light theme
-
-![](../../.gitbook/assets/destructive-button.png)
-
-```css
-/* Normal */
-background-color: $alertRed;
-color: #FFFFFF;
-
-/* Hover */
-background-color: $alertRed (90% opacity);
-
-/* Clicked */
-background-color: #CC0000;
-```
-
-### Dark theme
-
-![](../../.gitbook/assets/destructive-button-dark.png)
-
-```css
-/* Styling is as per 'light' theme plus */
-border: 2px solid #FFF;
-```
-
-## Conversion button
-
-* Used on the penultimate screen of an acquisition, application or process journey, usually on a review or confirm screen.
-* This is the only button style that has a 'disabled' state.
-* The button is presented as disabled if the user needs to complete one or more actions on the review/confirm screen before completing the process.
-* **Care should be taken when using the disabled state** – in general, disabling UI elements can confuse users and offer no explanation of why they're disabled or what the user needs to do to proceed.
-
-### Light theme
-
-![](../../.gitbook/assets/conversion-button.png)
-
-```css
-/* Normal */
-background-color: $primaryGreen;
-color: #FFFFFF;
-
-/* Hover */
-background-color: $primaryGreen (90% opacity);
-
-/* Clicked */
-background-color: #18A400;
-
-/* Disabled */
-background-color: $primaryGreen (50% opacity);
-```
-
-### Dark theme
-
-```css
-/* Normal */
-background-color: $primaryGreen;
-color: #FFFFFF;
-
-/* Hover */
-background-color: $primaryGreen (90% opacity);
-
-/* Clicked */
-background-color: #18A400;
-
-/* Disabled */
-background-color: $primaryGreen (50% opacity);
-```
-
-## Cancel button
-
-* Used to cancel an entire process.
-
-![](../../.gitbook/assets/cancel-button.png)
-
-```css
-/* Normal */
-color: $secondaryMidGrey;
-
-/* Hover */
-background-color: $secondaryLightGrey;
-border: 2px solid #E8E8E8;
-
-/* Clicked */
 border: 2px solid #D3D3D3;
 ```
 
