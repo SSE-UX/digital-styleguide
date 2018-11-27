@@ -43,7 +43,6 @@
 
 * [Progress Bar \(depreciated\)](depreciated-components/progress-bar-depreciated.md)
 * [Navigational Tile Buttons \(depreciated\)](depreciated-components/navigational-tile-buttons.md)
-* [Untitled](depreciated-components/untitled.md)
 
 ## New Suggestions
 
