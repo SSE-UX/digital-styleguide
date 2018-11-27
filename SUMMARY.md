@@ -25,10 +25,8 @@
   * [Spacing](website-patterns/typography-website/spacing.md)
 * [Buttons & Links](website-patterns/buttons/README.md)
   * [Buttons](website-patterns/buttons/buttons.md)
-  * [Navigational Tile Buttons \(depreciated\)](website-patterns/buttons/navigational-tile-buttons.md)
   * [Roundel Buttons](website-patterns/buttons/roundels.md)
   * [Standalone Links](website-patterns/buttons/standalone-links.md)
-* [Progress Bar \(depreciated\)](website-patterns/progress-bar-depreciated.md)
 * [Accordions](website-patterns/accordions.md)
 * [Toggles](website-patterns/toggles.md)
 * [Form Elements](website-patterns/form-elements/README.md)
@@ -46,4 +44,10 @@
 * [Breakpoints \(i\)](new-suggestions/breakpoints.md)
 * [Tone of Voice \(i\)](new-suggestions/tone-of-voice.md)
 * [Data Formatting \(i\)](new-suggestions/data-formatting.md)
+
+## Depreciated Components
+
+* [Progress Bar \(depreciated\)](depreciated-components/progress-bar-depreciated.md)
+* [Navigational Tile Buttons \(depreciated\)](depreciated-components/navigational-tile-buttons.md)
+* [Untitled](depreciated-components/untitled.md)
 

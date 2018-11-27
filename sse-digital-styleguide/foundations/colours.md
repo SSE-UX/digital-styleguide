@@ -4,10 +4,6 @@
 
 Correct use of the SSE brand colours will assure that all our output looks & feels like an SSE digital product. Generally speaking, we  use white as the dominant colour and overlay the SSE brand colours on top. This maintains readability, reduces eyestrain for our users and ensures consistency across our products and communications.
 
-{% hint style="danger" %}
-**Editor's note:** colour wheel?
-{% endhint %}
-
 ## Using colours
 
 These colours form the core palette for all SSE digital products. Where appropriate, examples of usage are given but these are not absolute – refer to any supplied Sketch files or Zeplin links for specific usage.
@@ -63,7 +59,7 @@ A gradient should only be used as a decorative element. **Do not place text over
 
 ## Checking colour contrast
 
-When using colour combinations, always check that their contrast is at least AA compliant. There are many online contrast checkers, but a nice one to use is [Colorable ↗](http://jxnblk.com/colorable/demos/text/?background=%23fff&foreground=%23004687).
+When using colour combinations, always check that their contrast is at least AA compliant. There are many online contrast checkers, but a nice one to use is [Accessible Colors ↗](http://accessible-colors.com)as it'll offer compliant suggestions if you enter a colour that isn't compliant.
 
 
 
