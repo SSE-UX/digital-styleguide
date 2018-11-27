@@ -77,7 +77,7 @@ border: 2px solid #E5E5E5;
 
 ### Dark theme
 
-![](../../.gitbook/assets/secondary-button-dark%20%281%29.png)
+![](../../.gitbook/assets/secondary-button-dark.png)
 
 ```css
 /* Normal */
@@ -87,6 +87,10 @@ border: 2px solid #FFF;
 
 /* Hover */
 background-color: #003E79;
+
+/* Hover */
+color: rgba(255,255,255,.5);
+border: 2px solid rgba(255,255,255,.5);
 ```
 
 ## Destructive button
@@ -104,6 +108,10 @@ color: #FFF;
 
 /* Hover */
 background-color: #C7161C;
+
+/* Disabled */
+background-color: #E5E5E5;
+color: #616161;
 ```
 
 ### Dark theme
@@ -131,11 +139,15 @@ color: #FFFFFF;
 
 /* Hover */
 background-color: #177407;
+
+/* Disabled */
+background-color: #E5E5E5;
+color: #616161;
 ```
 
 ### Dark theme
 
-![](../../.gitbook/assets/conversion-button-dark.png)
+![](../../.gitbook/assets/conversion-button-dark%20%281%29.png)
 
 ```css
 /* Styling is as per 'light' theme plus */
