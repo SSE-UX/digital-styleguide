@@ -39,15 +39,15 @@
 * [Tables](website-patterns/tables.md)
 * [Lightboxes](website-patterns/lightboxes.md)
 
-## New Suggestions
-
-* [Breakpoints \(i\)](new-suggestions/breakpoints.md)
-* [Tone of Voice \(i\)](new-suggestions/tone-of-voice.md)
-* [Data Formatting \(i\)](new-suggestions/data-formatting.md)
-
 ## Depreciated Components
 
 * [Progress Bar \(depreciated\)](depreciated-components/progress-bar-depreciated.md)
 * [Navigational Tile Buttons \(depreciated\)](depreciated-components/navigational-tile-buttons.md)
 * [Untitled](depreciated-components/untitled.md)
+
+## New Suggestions
+
+* [Breakpoints \(i\)](new-suggestions/breakpoints.md)
+* [Tone of Voice \(i\)](new-suggestions/tone-of-voice.md)
+* [Data Formatting \(i\)](new-suggestions/data-formatting.md)
 
