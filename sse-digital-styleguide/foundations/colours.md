@@ -22,8 +22,8 @@ SSE's primary brand colors are used in all digital products. **These colours are
 
 | **Colour** | **Variable name** | **Example usage** | **Hex code** |
 | :--- | :--- | :--- | :--- |
-| ![](../../.gitbook/assets/blue%20%282%29.png) | $primaryBlue | Headings, labels, titles | `#004687` |
-|  | $primaryGreen | Icons, bullet points, highlights | `#469638` |
+| ![](../../.gitbook/assets/primaryblue.png) | $primaryBlue | Headings, labels, titles | `#004687` |
+| ![](../../.gitbook/assets/primarygreen.png) | $primaryGreen | Icons, bullet points, highlights | `#1A8208` |
 
 ## Secondary colours
 
@@ -31,14 +31,14 @@ These colours complement the primary palette and are used to convey meaning. **N
 
 | **Colour** | **Variable name** | **Example usage** | **Hex code** |
 | :--- | :--- | :--- | :--- |
-|  | $secondaryBlue | Calls to action | `#2B7BB9` |
-| ![](../../.gitbook/assets/light-blue.png) | $secondaryLightBlue | Illustrations | `#A0C6E9` |
-| ![](../../.gitbook/assets/dark-green.png) | $secondaryGreen | Illustrations | `#004B1C` |
-| ![](../../.gitbook/assets/light-green.png) | $secondaryLightGreen | Illustrations | `#B2D235` |
-| ![](../../.gitbook/assets/dark-grey.png) | $secondaryDarkGrey | Text | `#212121` |
-| ![](../../.gitbook/assets/grey.png) | $secondaryMidGrey | Text | `#616161` |
-| ![](../../.gitbook/assets/mid-grey.png) | $secondaryGrey | Linework | `#BDBDBD` |
-| ![](../../.gitbook/assets/light-grey.png) | $secondaryLightGrey | Backgrounds, content sections | `#F5F5F5` |
+| ![](../../.gitbook/assets/secondaryblue.png) | $secondaryBlue | Calls to action | `#2875B2` |
+| ![](../../.gitbook/assets/secondarylightblue.png) | $secondaryLightBlue | Illustrations | `#A0C6E9` |
+| ![](../../.gitbook/assets/secondarygreen.png) | $secondaryGreen | Illustrations | `#004B1C` |
+| ![](../../.gitbook/assets/secondarylightgreen.png) | $secondaryLightGreen | Illustrations | `#B2D235` |
+| ![](../../.gitbook/assets/secondarydarkgrey.png) | $secondaryDarkGrey | Text | `#212121` |
+| ![](../../.gitbook/assets/secondarymidgrey.png) | $secondaryMidGrey | Text | `#616161` |
+| ![](../../.gitbook/assets/secondarygrey.png) | $secondaryGrey | Linework | `#BDBDBD` |
+| ![](../../.gitbook/assets/secondarylightgrey.png) | $secondaryLightGrey | Backgrounds, content sections | `#F5F5F5` |
 
 ## Alert colours
 
@@ -46,8 +46,8 @@ Used to convey soft or hard alert or error messages. **These colours are** [**WC
 
 | **Colour** | **Variable name** | **Example usage** | **Hex code** |
 | :--- | :--- | :--- | :--- |
-| ![](../../.gitbook/assets/orange.png) | $alertOrange | Soft warnings | `#FFB100` |
-| ![](../../.gitbook/assets/red.png) | $alertRed | Hard warnings or errors | `#E62128` |
+| ![](../../.gitbook/assets/alertorange.png) | $alertOrange | Soft warnings | `#FFB100` |
+| ![](../../.gitbook/assets/alertred.png) | $alertRed | Hard warnings or errors | `#DE1920` |
 
 ## Gradients
 
