@@ -13,13 +13,13 @@
   * [Adobe Creative Cloud](sse-digital-styleguide/our-tools/adobe-creative-cloud.md)
 * [Foundations](sse-digital-styleguide/foundations/README.md)
   * [Colours](sse-digital-styleguide/foundations/colours.md)
-  * [Typography](sse-digital-styleguide/foundations/typography.md)
+  * [Typographic Standards](sse-digital-styleguide/foundations/typography.md)
 * [Components](sse-digital-styleguide/components/README.md)
-  * [Buttons](sse-digital-styleguide/components/button-basics.md)
+  * [Calls-to-Action](sse-digital-styleguide/components/button-basics.md)
 
 ## Website Patterns
 
-* [Typography](website-patterns/typography-website/README.md)
+* [Typographic Styles](website-patterns/typography-website/README.md)
   * [Header Styles](website-patterns/typography-website/header-styles.md)
   * [Body Styles](website-patterns/typography-website/body-styles.md)
   * [Spacing](website-patterns/typography-website/spacing.md)

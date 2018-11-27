@@ -1,4 +1,4 @@
-# Typography
+# Typographic Standards
 
 ## Typography guidelines
 

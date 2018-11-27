@@ -1,4 +1,4 @@
-# Buttons
+# Calls-to-Action
 
 ## Button labels
 
