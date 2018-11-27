@@ -59,7 +59,7 @@ border: 2px solid #FFF;
 
 ### Light theme
 
-![](../../.gitbook/assets/secondary-button%20%281%29.png)
+![](../../.gitbook/assets/secondary-button%20%283%29.png)
 
 ```css
 /* Normal */
@@ -69,6 +69,10 @@ border: 2px solid $secondaryBlue;
 
 /* Hover */
 background-color: #E5E5E5;
+
+/* Disabled */
+color: $secondaryMidGrey;
+border: 2px solid #E5E5E5;
 ```
 
 ### Dark theme
