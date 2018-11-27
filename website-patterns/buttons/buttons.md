@@ -6,10 +6,9 @@
 
 ## Spacing & global styling
 
-* Buttons have left/right padding of 32px.
 * Buttons contained in narrow spaces or used in the X-Small breakpoint should fill 100% of the width available to them. This helps with cleaner alignment with other elements in that column, and also aligns multiple buttons when stacked.
-* If multiple buttons are horizontally aligned, there should be a 25px margin separating them.
-* If multiple buttons are stacked vertically, there should be a 16px margin separating them.
+* If multiple buttons are **horizontally aligned**, there should be a 25px margin separating them.
+* If multiple buttons are **stacked vertically**, there should be a 16px margin separating them.
 
 ![](../../.gitbook/assets/button-spec.png)
 
