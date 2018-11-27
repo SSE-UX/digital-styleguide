@@ -18,7 +18,7 @@ Button labels are always **Sentence case**.
 
 ## Hierarchy
 
-An appropriate hierarchy of calls to action helps to guide users through an interface. Presenting two options with the same visual weighting creates an unnecessary stumbling block for the user. For this reason, we have two styles of button: [primary](https://sse-digital.gitbook.io/ui-styleguide/untitled/button-types#primary-button) and [secondary](https://sse-digital.gitbook.io/ui-styleguide/untitled/button-types#secondary-button).
+An appropriate hierarchy of calls to action helps to guide users through an interface. Presenting two options with the same visual weighting creates an unnecessary stumbling block for the user. For this reason, we have two styles of button: primary and secondary.
 
 The primary action should always be presented to the left of the secondary action, or above/below if the buttons are stacked in a narrow column. The two actions should also be visually distinct to avoid creating confusion.
 
