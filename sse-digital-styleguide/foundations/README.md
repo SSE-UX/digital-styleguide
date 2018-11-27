@@ -1,7 +1,5 @@
 # Foundations
 
-![](../../.gitbook/assets/structure-foundations.png)
-
 ### Jump to:
 
 * [Colours](colours.md)

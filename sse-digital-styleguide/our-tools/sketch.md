@@ -111,5 +111,11 @@ Rename symbol instances to the name of their master.
 
 [https://github.com/sonburn/symbol-instance-renamer ↗](https://github.com/sonburn/symbol-instance-renamer)
 
+### Craft
+
+Craft is a bunch of useful plugins that can make the design process easier. It also integrates with our prototyping tool InVision.
+
+[https://www.invisionapp.com/craft ↗](https://www.invisionapp.com/craft)
+
 
 

@@ -1,5 +1,9 @@
 # Colours
 
+## Colour composition
+
+Correct use of the SSE brand colours will assure that all our output looks & feels like an SSE digital product. Generally speaking, we  use white as the dominant colour and overlay the SSE brand colours on top. This maintains readability, reduces eyestrain for our users and ensures consistency across our products and communications.
+
 {% hint style="danger" %}
 **Editor's note:** colour wheel?
 {% endhint %}
@@ -19,7 +23,7 @@ SSE's primary brand colors are used in all digital products. **These colours are
 | **Colour** | **Variable name** | **Example usage** | **Hex code** |
 | :--- | :--- | :--- | :--- |
 | ![](../../.gitbook/assets/blue%20%282%29.png) | $primaryBlue | Headings, labels, titles | `#004687` |
-| ![](../../.gitbook/assets/green%20%282%29.png) | $primaryGreen | Icons, bullet points, highlights | `#469638` |
+|  | $primaryGreen | Icons, bullet points, highlights | `#469638` |
 
 ## Secondary colours
 
@@ -27,7 +31,7 @@ These colours complement the primary palette and are used to convey meaning. **N
 
 | **Colour** | **Variable name** | **Example usage** | **Hex code** |
 | :--- | :--- | :--- | :--- |
-| ![](../../.gitbook/assets/blue%20%284%29.png) | $secondaryBlue | Calls to action | `#2B7BB9` |
+|  | $secondaryBlue | Calls to action | `#2B7BB9` |
 | ![](../../.gitbook/assets/light-blue.png) | $secondaryLightBlue | Illustrations | `#A0C6E9` |
 | ![](../../.gitbook/assets/dark-green.png) | $secondaryGreen | Illustrations | `#004B1C` |
 | ![](../../.gitbook/assets/light-green.png) | $secondaryLightGreen | Illustrations | `#B2D235` |
