@@ -27,7 +27,7 @@ line-height: 24px;
 
 ### Light theme
 
-![](../../.gitbook/assets/primary-button%20%281%29.png)
+![](../../.gitbook/assets/primary-button%20%282%29.png)
 
 ```css
 /* Normal */
@@ -36,18 +36,19 @@ color: #FFF;
 
 /* Hover */
 background-color: #23699F;
+
+/* Disabled */
+background-color: #E5E5E5;
+color: #616161;
 ```
 
 ### Dark theme
 
-![](../../.gitbook/assets/primary-button-dark%20%281%29.png)
+![](../../.gitbook/assets/primary-button-dark.png)
 
 ```css
 /* Styling is as per 'light' theme plus */
 border: 2px solid #FFF;
-
-/* Hover */
-background-color: #003E79;
 ```
 
 ## Secondary button
@@ -113,7 +114,6 @@ border: 2px solid #FFF;
 ## Conversion button
 
 * Used on the penultimate screen of an acquisition, application or process journey, usually on a review or confirm screen.
-* This is the only button style that has a 'disabled' state.
 * The button is presented as disabled if the user needs to complete one or more actions on the review/confirm screen before completing the process.
 
 ### Light theme
