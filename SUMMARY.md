@@ -41,7 +41,8 @@
 * [Tables](website-patterns/tables.md)
 * [Lightboxes](website-patterns/lightboxes.md)
 * [Imagery](website-patterns/imagery/README.md)
-  * [Homepage Imagery](website-patterns/imagery/homepage-imagery.md)
+  * [Homepage Imagery](website-patterns/imagery/homepage-imagery/README.md)
+    * [Homepage Hero](website-patterns/imagery/homepage-imagery/homepage-hero.md)
 
 ## Depreciated Components
 
