@@ -1,4 +1,4 @@
-# Calls-to-Action
+# Labelling & Hierarchy
 
 ## Button labels
 
@@ -19,9 +19,9 @@ Button labels are always **Sentence case** \(where only the first word and prope
 
 An appropriate hierarchy of buttons helps to guide users through an interface. Presenting two or more options with the same visual weighting creates an unnecessary stumbling block for the user. In the example below, there are three options presented to the user and all have the same visual weight. How do they know which one we expect/want them to take?
 
-![If all options have the same visual weight, how does the user know which option to take?](../../.gitbook/assets/button-hierarchy-two-primary.png)
+![If all options have the same visual weight, how does the user know which option to take?](../../../.gitbook/assets/button-hierarchy-two-primary.png)
 
 By using an appropriate mix of button styles \(primary & secondary, shown below\), we can create an interface that helps guide the user through the process we expect they want to complete.
 
-![It&apos;s clearer with this arrangement that the most expected action is to &apos;Continue&apos;.](../../.gitbook/assets/button-hierarchy-one-primary.png)
+![It&apos;s clearer with this arrangement that the most expected action is to &apos;Continue&apos;.](../../../.gitbook/assets/button-hierarchy-one-primary.png)
 

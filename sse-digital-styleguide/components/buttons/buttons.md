@@ -10,7 +10,7 @@
 * If multiple buttons are **horizontally aligned**, there should be a 25px margin separating them.
 * If multiple buttons are **stacked vertically**, there should be a 16px margin separating them.
 
-![](../../.gitbook/assets/button-spec.png)
+![](../../../.gitbook/assets/button-spec.png)
 
 ```css
 font-face: Museo Sans Rounded;
@@ -27,7 +27,7 @@ line-height: 24px;
 
 ### Light theme
 
-![](../../.gitbook/assets/primary-button.png)
+![](../../../.gitbook/assets/primary-button.png)
 
 ```css
 /* Normal */
@@ -44,7 +44,7 @@ color: #616161;
 
 ### Dark theme
 
-![](../../.gitbook/assets/primary-button-dark.png)
+![](../../../.gitbook/assets/primary-button-dark.png)
 
 ```css
 /* Styling is as per 'light' theme plus */
@@ -59,7 +59,7 @@ border: 2px solid #FFF;
 
 ### Light theme
 
-![](../../.gitbook/assets/secondary-button%20%281%29.png)
+![](../../../.gitbook/assets/secondary-button%20%281%29.png)
 
 ```css
 /* Normal */
@@ -77,7 +77,7 @@ border: 2px solid #E5E5E5;
 
 ### Dark theme
 
-![](../../.gitbook/assets/secondary-button-dark.png)
+![](../../../.gitbook/assets/secondary-button-dark.png)
 
 ```css
 /* Normal */
@@ -99,7 +99,7 @@ border: 2px solid rgba(255,255,255,.5);
 
 ### Light theme
 
-![](../../.gitbook/assets/destructive-button.png)
+![](../../../.gitbook/assets/destructive-button.png)
 
 ```css
 /* Normal */
@@ -116,7 +116,7 @@ color: #616161;
 
 ### Dark theme
 
-![](../../.gitbook/assets/destructive-button-dark.png)
+![](../../../.gitbook/assets/destructive-button-dark.png)
 
 ```css
 /* Styling is as per 'light' theme plus */
@@ -130,7 +130,7 @@ border: 2px solid #FFF;
 
 ### Light theme
 
-![](../../.gitbook/assets/conversion-button.png)
+![](../../../.gitbook/assets/conversion-button.png)
 
 ```css
 /* Normal */
@@ -147,7 +147,7 @@ color: #616161;
 
 ### Dark theme
 
-![](../../.gitbook/assets/conversion-button-dark.png)
+![](../../../.gitbook/assets/conversion-button-dark.png)
 
 ```css
 /* Styling is as per 'light' theme plus */
@@ -158,7 +158,7 @@ border: 2px solid #FFF;
 
 * Used to cancel an entire process.
 
-![](../../.gitbook/assets/cancel-button.png)
+![](../../../.gitbook/assets/cancel-button.png)
 
 ```css
 /* Normal */
@@ -180,7 +180,7 @@ border: 2px solid #D3D3D3;
 
 ### Light & dark themes
 
-![](../../.gitbook/assets/secondary-button-alt.png)
+![](../../../.gitbook/assets/secondary-button-alt.png)
 
 ```css
 /* Normal */

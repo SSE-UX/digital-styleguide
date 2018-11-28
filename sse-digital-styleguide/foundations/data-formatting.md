@@ -4,7 +4,11 @@ description: >-
   and date can make a big difference to the usability of our products.
 ---
 
-# Data Formatting \(i\)
+# Common Data Formatting
+
+{% hint style="info" %}
+**Note:** this section is incomplete and will be expanded on in a future release
+{% endhint %}
 
 ## General guidelines
 
@@ -33,8 +37,8 @@ description: >-
 | 03 August 2018 | August 3rd |
 | 03 Aug 2018 | 03 August 2018 \(if space dictates\) |
 
-{% hint style="danger" %}
-**Editor's note:** other areas to add:
+{% hint style="warning" %}
+**Note:** other areas to add:
 
 * Numbers & currency
 * Our products

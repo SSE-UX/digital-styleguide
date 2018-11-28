@@ -1,6 +1,6 @@
 # Text Fields
 
-![](../../.gitbook/assets/text-field.png)
+![](../../../.gitbook/assets/text-field.png)
 
 ```css
 /* Global */

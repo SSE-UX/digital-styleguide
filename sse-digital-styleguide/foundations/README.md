@@ -1,9 +1,6 @@
 # Foundations
 
-### Jump to:
+Foundations are the building blocks of SSE Digital design on which everything is created. They're the DNA of the SSE Digital Brand and infuse all our work with the same SSE feel.
 
-* [Colours](colours.md)
-* [Typography](typography.md)
-* [Tone of voice](../../new-suggestions/tone-of-voice.md)
-* [Data types](../../new-suggestions/data-formatting.md)
+![](../../.gitbook/assets/structure-foundations.png)
 

@@ -4,7 +4,7 @@
 
 Standalone links have an optional icon to the left of the text.
 
-![](../../.gitbook/assets/link-with-icon.png)
+![](../../../.gitbook/assets/link-with-icon.png)
 
 ```css
 font-face: PT Sans Bold;

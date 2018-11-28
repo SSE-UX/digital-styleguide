@@ -16,7 +16,7 @@ Our design system values **consistency & appropriateness** over **uniformity**.
 
 ![](../.gitbook/assets/structure-foundations.png)
 
-Foundations are the building blocks of SSE Digital design. They're the DNA of the SSE Digital Brand and are evident in everything we create.
+Foundations are the building blocks of SSE Digital design on which everything is created. They're the DNA of the SSE Digital Brand and infuse all our work with the same SSE feel.
 
 ## Components
 

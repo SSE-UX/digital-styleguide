@@ -12,7 +12,7 @@ description: >-
 
 ## Spacing & sizing
 
-![](../../.gitbook/assets/roundel-spec.png)
+![](../../../.gitbook/assets/roundel-spec.png)
 
 ```css
 font-face: Museo Sans Rounded;
@@ -22,7 +22,7 @@ font-size: 36px;
 
 ## Light theme
 
-![](../../.gitbook/assets/roundel.png)
+![](../../../.gitbook/assets/roundel.png)
 
 ```css
 /* Normal */
@@ -44,7 +44,7 @@ border: 4px solid $primaryBlue (50% opacity);
 
 ## Dark theme
 
-![](../../.gitbook/assets/roundel-dark.png)
+![](../../../.gitbook/assets/roundel-dark.png)
 
 ```css
 /* Normal */
@@ -68,7 +68,7 @@ border: 4px solid #FFF (50% opacity);
 
 Roundels can be used with icons & a text label.
 
-![](../../.gitbook/assets/roundel-icon.png)
+![](../../../.gitbook/assets/roundel-icon.png)
 
 ```css
 font-face: Museo Sans Rounded;

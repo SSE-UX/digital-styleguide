@@ -1,32 +1,34 @@
-# Checkboxes
+# Radio Buttons
 
-![](../../.gitbook/assets/checkboxes.png)
+![](../../../.gitbook/assets/radio-buttons.png)
 
 ```css
 /* Global */
-corner-radius: 6px;
-icon-color: #FFF;
 font-face: PT Sans;
 font-size: 16px;
 line-height: 24px;
 color: $secondaryMidGrey;
 
-/* Unchecked */
+/* Unselected */
 border: 2px solid $secondaryGrey;
 background-color: #FFF;
 
-/* Unchecked hover */
+/* Unselected hover */
 border: 2px solid $secondaryBlue;
 background-color: #FFF;
 
-/* Checked */
-background-color: $secondaryBlue;
+/* Selected */
+border: 2px solid $secondaryBlue;
+bullet-color: $secondaryBlue;
 
-/* Disabled unchecked */
+/* Disabled unselected */
 border: 2px solid $secondaryGrey (35% opacity);
 background-color: #FFF;
 
-/* Disabled checked */
+/* Disabled selected */
 background-color: $secondaryGrey (35% opacity);
+bullet-color: $secondaryGrey (35% opacity);
 ```
+
+
 

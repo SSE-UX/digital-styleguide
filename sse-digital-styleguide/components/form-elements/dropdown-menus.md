@@ -1,6 +1,6 @@
 # Dropdown Menus
 
-![](../../.gitbook/assets/dropdown.png)
+![](../../../.gitbook/assets/dropdown.png)
 
 ```css
 /* Global */

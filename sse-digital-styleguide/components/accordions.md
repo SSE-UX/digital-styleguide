@@ -4,9 +4,9 @@ description: Used when a lot of information needs to be presented in a small spa
 
 # Accordions
 
-![](../.gitbook/assets/accordion.png)
+![](../../.gitbook/assets/accordion.png)
 
-![](../.gitbook/assets/accordion-dark.png)
+![](../../.gitbook/assets/accordion-dark.png)
 
 ```css
 /* Accordion title */
