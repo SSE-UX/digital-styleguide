@@ -16,11 +16,15 @@ There are three sizes of hero image for the various breakpoints. When preparing 
 
 ### Small \(768 x 295 @2x\)
 
+![](../../../.gitbook/assets/homepage-hero-header.jpg)
+
+At the small breakpoint, the homepage hero is a fixed height with a panel that covers the bottom half of the image. This is shown below as the 'non-safe area'.
+
 ![](../../../.gitbook/assets/homepage-hero-small-spec.png)
 
 The non-safe area of this image is where the white panel containing the message  text sits, so ensure that the main focus of your image sits outside this area.
 
-![](../../../.gitbook/assets/homepage-hero-small-ok.jpg)
+![](../../../.gitbook/assets/homepage-hero-small-ok%20%281%29.jpg)
 
 In the example above, the image has been appropriately composed so that the main area of interest within the image is positioned above the non-safe area, ensuring it's visible when published on the site. 
 
