@@ -31,13 +31,15 @@ There are three sizes of hero image for the various breakpoints. When preparing 
 
 The non-safe area of this image is where the white panel containing the message  text sits, so ensure that the main focus of your image sits outside this area.
 
+![](../../.gitbook/assets/homepage-hero-small-ok.jpg)
 
+In the example above, the image has been appropriately composed so that the main area of interest within the image is positioned above the non-safe area, ensuring it's visible when published on the site. 
 
-![The composition of this image ensures that the area of interest sits above the panel.](../../.gitbook/assets/homepage-hero-small-ok%20%281%29.jpg)
+The image below has not been appropriately composed, resulting in parts of the image not being visible when published.
 
-![The area of interest sits behind the non-safe area, so isn&apos;t visible on the site.](../../.gitbook/assets/homepage-hero-small-not-ok.jpg)
+![](../../.gitbook/assets/homepage-hero-small-not-ok.jpg)
 
 #### Medium \(992 x 580 @2x\)
 
-![](../../.gitbook/assets/homepage-hero-small-spec.png)
+![](../../.gitbook/assets/homepage-hero-medium-spec.png)
 
