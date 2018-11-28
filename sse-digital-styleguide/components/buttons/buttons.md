@@ -1,3 +1,7 @@
+---
+description: Buttons are used to present actions a user is able to take.
+---
+
 # Buttons
 
 {% hint style="warning" %}

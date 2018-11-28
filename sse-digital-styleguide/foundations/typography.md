@@ -1,4 +1,8 @@
-# Typographic Standards
+---
+description: General typographic guidelines & SSE font specifications.
+---
+
+# Typography
 
 ## Typography guidelines
 

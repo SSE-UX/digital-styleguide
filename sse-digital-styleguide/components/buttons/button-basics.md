@@ -1,3 +1,9 @@
+---
+description: >-
+  Appropriate labelling & hierarchy helps guide users through our digital
+  products smoothly.
+---
+
 # Labelling & Hierarchy
 
 ## Button labels

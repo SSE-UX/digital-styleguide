@@ -1,8 +1,14 @@
+---
+description: >-
+  Correct use of the SSE brand colours will assure that all our output looks &
+  feels like an SSE digital product.
+---
+
 # Colours
 
 ## Colour composition
 
-Correct use of the SSE brand colours will assure that all our output looks & feels like an SSE digital product. Generally speaking, we  use white as the dominant colour and overlay the SSE brand colours on top. This maintains readability, reduces eyestrain for our users and ensures consistency across our products and communications.
+Generally speaking, we  use white as the dominant colour and overlay the SSE brand colours on top. This maintains readability, reduces eyestrain for our users and ensures consistency across our products and communications.
 
 ## Using colours
 
