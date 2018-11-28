@@ -26,7 +26,7 @@
 * [Buttons & Links](website-patterns/buttons/README.md)
   * [Buttons](website-patterns/buttons/buttons.md)
   * [Roundel Buttons](website-patterns/buttons/roundels.md)
-  * [Standalone Links](website-patterns/buttons/standalone-links.md)
+  * [Text Links](website-patterns/buttons/standalone-links.md)
 * [Accordions](website-patterns/accordions.md)
 * [Toggles](website-patterns/toggles.md)
 * [Form Elements](website-patterns/form-elements/README.md)

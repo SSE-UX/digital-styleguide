@@ -27,7 +27,7 @@ line-height: 24px;
 
 ### Light theme
 
-![](../../.gitbook/assets/primary-button%20%282%29.png)
+![](../../.gitbook/assets/primary-button.png)
 
 ```css
 /* Normal */
@@ -59,7 +59,7 @@ border: 2px solid #FFF;
 
 ### Light theme
 
-![](../../.gitbook/assets/secondary-button%20%283%29.png)
+![](../../.gitbook/assets/secondary-button%20%281%29.png)
 
 ```css
 /* Normal */
@@ -147,7 +147,7 @@ color: #616161;
 
 ### Dark theme
 
-![](../../.gitbook/assets/conversion-button-dark%20%281%29.png)
+![](../../.gitbook/assets/conversion-button-dark.png)
 
 ```css
 /* Styling is as per 'light' theme plus */
