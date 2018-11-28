@@ -15,6 +15,7 @@
   * [Colours](sse-digital-styleguide/foundations/colours.md)
   * [Typography](sse-digital-styleguide/foundations/typography.md)
   * [Common Data Formatting](sse-digital-styleguide/foundations/data-formatting.md)
+  * [Tone of Voice](sse-digital-styleguide/foundations/tone-of-voice.md)
 * [Components](sse-digital-styleguide/components/README.md)
   * [Buttons & Links](sse-digital-styleguide/components/buttons/README.md)
     * [Labelling & Hierarchy](sse-digital-styleguide/components/buttons/button-basics.md)
@@ -39,6 +40,8 @@
   * [Spacing](website-patterns/typography-website/spacing.md)
 * [Tables](website-patterns/tables.md)
 * [Lightboxes](website-patterns/lightboxes.md)
+* [Imagery](website-patterns/imagery/README.md)
+  * [Homepage Imagery](website-patterns/imagery/homepage-imagery.md)
 
 ## Depreciated Components
 
