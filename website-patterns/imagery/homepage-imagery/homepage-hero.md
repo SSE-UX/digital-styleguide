@@ -16,7 +16,7 @@ There are three sizes of hero image for the various breakpoints. When preparing 
 
 ### Small \(768 x 295 @2x\)
 
-![](../../../.gitbook/assets/homepage-hero-header.jpg)
+![](../../../.gitbook/assets/homepage-hero-header-small.jpg)
 
 At the small breakpoint, the homepage hero is a fixed height with a panel that covers the bottom half of the image. This is shown below as the 'non-safe area'.
 
@@ -24,7 +24,7 @@ At the small breakpoint, the homepage hero is a fixed height with a panel that c
 
 The non-safe area of this image is where the white panel containing the message  text sits, so ensure that the main focus of your image sits outside this area.
 
-![](../../../.gitbook/assets/homepage-hero-small-ok%20%281%29.jpg)
+![](../../../.gitbook/assets/homepage-hero-small-ok.jpg)
 
 In the example above, the image has been appropriately composed so that the main area of interest within the image is positioned above the non-safe area, ensuring it's visible when published on the site. 
 
@@ -34,11 +34,15 @@ The image below has not been appropriately composed, resulting in parts of the i
 
 ### Medium \(992 x 580 @2x\)
 
-![](../../../.gitbook/assets/homepage-hero-medium-spec.png)
+![](../../../.gitbook/assets/homepage-hero-header-medium.jpg)
 
 The medium image size has the same sort of non-safe area as the small image does, and the same rules apply.
 
-![Area of focus is outside the non-safe area.](../../../.gitbook/assets/homepage-hero-medium-ok.jpg)
+![](../../../.gitbook/assets/homepage-hero-medium-spec.png)
 
-![Area of focus is not outside the non-safe area.](../../../.gitbook/assets/homepage-hero-medium-not-ok.jpg)
+
+
+![](../../../.gitbook/assets/homepage-hero-medium-ok.jpg)
+
+![](../../../.gitbook/assets/homepage-hero-medium-not-ok%20%281%29.jpg)
 
