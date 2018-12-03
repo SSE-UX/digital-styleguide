@@ -46,5 +46,9 @@ description: >-
 * ...?
 {% endhint %}
 
+## Phone numbers
 
+Write British numbers in full, making sure you use the area code. Make them easier to read by putting a space between each block. 
+
+> 020 3417 1000
 

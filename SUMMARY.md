@@ -15,6 +15,7 @@
   * [Colours](sse-digital-styleguide/foundations/colours.md)
   * [Typography](sse-digital-styleguide/foundations/typography.md)
   * [Common Data Formatting](sse-digital-styleguide/foundations/data-formatting.md)
+  * [Common Words](sse-digital-styleguide/foundations/common-words.md)
   * [Tone of Voice](sse-digital-styleguide/foundations/tone-of-voice.md)
 * [Components](sse-digital-styleguide/components/README.md)
   * [Buttons & Links](sse-digital-styleguide/components/buttons/README.md)
