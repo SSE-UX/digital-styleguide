@@ -32,52 +32,5 @@ text-decoration: none;
 text-decoration: underline;
 ```
 
-## Unordered lists
-
-![](../../.gitbook/assets/unordered-list.png)
-
-```css
-font-face: PT Sans;
-font-size: 16px;
-line-height: 24px;
-color: $secondaryMidGrey;
-padding-bottom: 16px;
-bullet-color: $primaryGreen;
-bullet-size: 12px;
-```
-
-## Unordered lists \(variant\)
-
-This variant is only to be used on confirmation pages to present "What happens next?" content.
-
-![](../../.gitbook/assets/unordered-list-variant.png)
-
-```css
-font-face: PT Sans;
-font-size: 16px;
-line-height: 24px;
-color: $secondaryMidGrey;
-padding-bottom: 16px;
-bullet-color: $primaryGreen;
-bullet-size: 32px;
-```
-
-## Ordered lists
-
-![](../../.gitbook/assets/ordered-list.png)
-
-```css
-font-face: PT Sans;
-font-size: 16px;
-line-height: 24px;
-color: $secondaryMidGrey;
-padding-bottom: 16px;
-bullet-color: $primaryGreen;
-bullet-size: 32px;
-bullet-font: Museo Sans Rounded;
-bullet-font-size: 16px;
-bullet-font-color: $secondaryLightGrey;
-```
-
 
 
