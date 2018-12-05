@@ -16,9 +16,13 @@ Care should be taken to ensure that any imagery created for the hero space does 
 
 There'll be a trade-off between filesize and image quality which will vary from image to image, so common sense and a keen eye should dictate how to balance this for each image. Take special care if your image contains strong gradients as these tend to degrade to more 'banded' blocks of colour as the quality lessens.
 
-## Compressing further with Guetzli
+## Compressing further with ImageOptim & Guetzli
 
-d
+Guetzli is a free, open-source JPEG compressor from Google and can be used to further compress JPEG images. If you're on a Mac, download [ImageOptim↗](https://imageoptim.com/mac) and drag the images you want to compress into the main window. Be sure to turn on 'Guetzli' in the preferences – it'll warn you that Guetzli is slow and images may take a long time to compress.
+
+It's a good idea to run copies of your exported JPEGs through ImageOptim \(rather than the original JPEGs\) so you can compare the output to your original JPEGs, in case the results are not as expected.
+
+![](../../.gitbook/assets/imageoptim.jpg)
 
 ## Previewing your imagery
 
