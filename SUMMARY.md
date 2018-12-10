@@ -49,6 +49,7 @@
   * [Preparing & Exporting Imagery](website-patterns/imagery/preparing-and-exporting-imagery.md)
   * [Homepage Imagery](website-patterns/imagery/homepage-imagery/README.md)
     * [Homepage Hero](website-patterns/imagery/homepage-imagery/homepage-hero.md)
+    * [Homepage Promos](website-patterns/imagery/homepage-imagery/homepage-promos.md)
 
 ## Depreciated Components
 
