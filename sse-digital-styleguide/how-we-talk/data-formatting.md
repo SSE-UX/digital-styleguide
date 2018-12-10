@@ -40,9 +40,11 @@ Write British numbers in full, making sure you use the area code. Make them easi
 
 > 020 3417 1000
 
-## Phone numbers
+## Web addresses
 
-There’s no need to use www, and you can finish with a full stop if the web address is at the end of a sentence
+There’s no need to use www, and you can finish with a full stop if the web address is at the end of a sentence.
 
 > You can find more information at sse.com.
+
+
 
