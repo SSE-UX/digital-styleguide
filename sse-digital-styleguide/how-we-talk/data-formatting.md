@@ -1,14 +1,11 @@
 ---
 description: >-
   Being consistent with simple things like how we display or communicate time
-  and date can make a big difference to the usability of our products.
+  and date can make a big difference to the usability & familiarity of our
+  products.
 ---
 
 # Common Data Formatting
-
-{% hint style="info" %}
-**Note:** this section is incomplete and will be expanded on in a future release
-{% endhint %}
 
 ## General guidelines
 
@@ -37,18 +34,15 @@ description: >-
 | 03 August 2018 | August 3rd |
 | 03 Aug 2018 | 03 August 2018 \(if space dictates\) |
 
-{% hint style="warning" %}
-**Note:** other areas to add:
-
-* Numbers & currency
-* Our products
-* **Capturing common data \(e.g. DoB\)**
-* ...?
-{% endhint %}
-
 ## Phone numbers
 
 Write British numbers in full, making sure you use the area code. Make them easier to read by putting a space between each block. 
 
 > 020 3417 1000
+
+## Phone numbers
+
+There’s no need to use www, and you can finish with a full stop if the web address is at the end of a sentence
+
+> You can find more information at sse.com.
 
