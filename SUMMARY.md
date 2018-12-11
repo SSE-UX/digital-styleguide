@@ -51,6 +51,7 @@
     * [Homepage Hero](website-patterns/imagery/homepage-imagery/homepage-hero.md)
     * [Homepage Promos](website-patterns/imagery/homepage-imagery/homepage-promos.md)
   * [Hub Page Hero Imagery](website-patterns/imagery/hub-page-imagery.md)
+* [Disclaimers & Qualifiers](website-patterns/disclaimers-and-qualifiers.md)
 
 ## Depreciated Components
 
@@ -61,5 +62,4 @@
 ## New Suggestions
 
 * [T&Cs checkbox](new-suggestions/t-and-cs-checkbox.md)
-* [Disclaimers & Qualifiers](new-suggestions/disclaimers-and-qualifiers.md)
 
