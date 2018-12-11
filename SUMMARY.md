@@ -50,6 +50,7 @@
   * [Homepage Imagery](website-patterns/imagery/homepage-imagery/README.md)
     * [Homepage Hero](website-patterns/imagery/homepage-imagery/homepage-hero.md)
     * [Homepage Promos](website-patterns/imagery/homepage-imagery/homepage-promos.md)
+  * [Hub Page Hero Imagery](website-patterns/imagery/hub-page-imagery.md)
 
 ## Depreciated Components
 
@@ -58,4 +59,7 @@
 * [Navigational Tile Buttons \(depreciated\)](depreciated-components/navigational-tile-buttons.md)
 
 ## New Suggestions
+
+* [T&Cs checkbox](new-suggestions/t-and-cs-checkbox.md)
+* [Disclaimers & Qualifiers](new-suggestions/disclaimers-and-qualifiers.md)
 
