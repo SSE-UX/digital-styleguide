@@ -31,7 +31,7 @@ line-height: 24px;
 
 ### Light theme
 
-![](../../../.gitbook/assets/primary-button.png)
+![](../../../.gitbook/assets/primary-button%20%281%29.png)
 
 ```css
 /* Normal */
@@ -41,14 +41,13 @@ color: #FFF;
 /* Hover */
 background-color: #23699F;
 
-/* Disabled */
-background-color: #E5E5E5;
-color: #616161;
+/* Clicked */
+background-color: #205D8E;
 ```
 
 ### Dark theme
 
-![](../../../.gitbook/assets/primary-button-dark.png)
+![](../../../.gitbook/assets/primary-button-dark%20%281%29.png)
 
 ```css
 /* Styling is as per 'light' theme plus */
@@ -63,7 +62,7 @@ border: 2px solid #FFF;
 
 ### Light theme
 
-![](../../../.gitbook/assets/secondary-button%20%281%29.png)
+![](../../../.gitbook/assets/secondary-button.png)
 
 ```css
 /* Normal */
@@ -72,16 +71,15 @@ color: $secondaryBlue;
 border: 2px solid $secondaryBlue;
 
 /* Hover */
-background-color: #E5E5E5;
+background-color: #E9F1F7;
 
-/* Disabled */
-color: $secondaryMidGrey;
-border: 2px solid #E5E5E5;
+/* Clicked */
+background-color: #D4E3F0;
 ```
 
 ### Dark theme
 
-![](../../../.gitbook/assets/secondary-button-dark.png)
+![](../../../.gitbook/assets/secondary-button-dark%20%281%29.png)
 
 ```css
 /* Normal */
@@ -90,11 +88,10 @@ color: #FFF;
 border: 2px solid #FFF;
 
 /* Hover */
-background-color: #003E79;
+background-color: #004687;
 
-/* Hover */
-color: rgba(255,255,255,.5);
-border: 2px solid rgba(255,255,255,.5);
+/* Clicked */
+background-color: #00386C;
 ```
 
 ## Destructive button
@@ -103,7 +100,7 @@ border: 2px solid rgba(255,255,255,.5);
 
 ### Light theme
 
-![](../../../.gitbook/assets/destructive-button.png)
+![](../../../.gitbook/assets/destructive-button%20%281%29.png)
 
 ```css
 /* Normal */
@@ -111,11 +108,10 @@ background-color: $alertRed;
 color: #FFF;
 
 /* Hover */
-background-color: #C7161C;
+background-color: #CA2B30;
 
-/* Disabled */
-background-color: #E5E5E5;
-color: #616161;
+/* Clicked */
+background-color: #B4262B;
 ```
 
 ### Dark theme
@@ -144,9 +140,8 @@ color: #FFFFFF;
 /* Hover */
 background-color: #177407;
 
-/* Disabled */
-background-color: #E5E5E5;
-color: #616161;
+/* Clicked */
+background-color: #146806;
 ```
 
 ### Dark theme
@@ -156,48 +151,5 @@ color: #616161;
 ```css
 /* Styling is as per 'light' theme plus */
 border: 2px solid #FFF;
-```
-
-## Cancel button  \(DEPRECIATED?\)
-
-* Used to cancel an entire process.
-
-![](../../../.gitbook/assets/cancel-button.png)
-
-```css
-/* Normal */
-color: $secondaryMidGrey;
-
-/* Hover */
-background-color: $secondaryLightGrey;
-border: 2px solid #E8E8E8;
-
-/* Clicked */
-border: 2px solid #D3D3D3;
-```
-
-
-
-## Secondary button \(alternate\) \(DEPRECIATED?\)
-
-* An alternative to the regular secondary button style, can be used where there is a less important actions compared to a regular secondary button.
-
-### Light & dark themes
-
-![](../../../.gitbook/assets/secondary-button-alt.png)
-
-```css
-/* Normal */
-background-color: $secondaryLightGrey;
-color: $secondaryMidGrey;
-border: 2px solid #E0E0E0;
-
-/* Hover */
-background-color: #FFFFFF;
-border: 2px solid $secondaryMidGrey;
-
-/* Clicked */
-background-color: $secondaryLightGrey;
-border: 2px solid #D3D3D3;
 ```
 
