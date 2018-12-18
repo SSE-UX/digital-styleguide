@@ -53,11 +53,7 @@ Used to convey soft or hard alert or error messages. **These colours are** [**WC
 
 ## Gradients
 
-{% hint style="warning" %}
-Gradients are likely being depreciated, so should not be overly used in any new design work
-{% endhint %}
-
-A gradient should only be used as a decorative element. **Do not place text over gradients.**
+Gradients are generally used for decorative elements \(e.g. icons\) or backgrounds. **Care should be taken when placing white text over gradients to ensure sufficient contrast is maintained.** Whilst gradients can be replicated in CSS using the start & end colours, it may be better to use a graphic – much will depend on the actual context & usage of the gradient.
 
 | **Gradient** | Variable name | **Start colour** | **End colour** |
 | :--- | :--- | :--- | :--- |
