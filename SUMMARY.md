@@ -5,7 +5,7 @@
 ## SSE Digital Styleguide
 
 * [Our Design System](sse-digital-styleguide/our-design-system.md)
-* [Core UX Principles](sse-digital-styleguide/our-core-ux-principles.md)
+* [Core Design Principles](sse-digital-styleguide/our-core-ux-principles.md)
 * [Our Tools](sse-digital-styleguide/our-tools/README.md)
   * [Sketch](sse-digital-styleguide/our-tools/sketch.md)
   * [Zeplin](sse-digital-styleguide/our-tools/zeplin.md)

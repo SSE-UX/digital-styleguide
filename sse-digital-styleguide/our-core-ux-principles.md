@@ -2,7 +2,7 @@
 description: These principles underpin everything the Digital Studio creates.
 ---
 
-# Core UX Principles
+# Core Design Principles
 
 ## Design for All
 
