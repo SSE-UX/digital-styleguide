@@ -6,7 +6,7 @@ This styleguide is an evolving document and will continue to be updated as we de
 
 ### New to SSE?
 
-If you're new to SSE, start with our [Core UX Principles](sse-digital-styleguide/our-core-ux-principles.md). You can also read about the [tools we use](sse-digital-styleguide/our-tools/) and get yourself up & running.
+If you're new to SSE, start with our [Core Design Principles](sse-digital-styleguide/our-core-ux-principles.md). You can also read about the [tools we use](sse-digital-styleguide/our-tools/) and get yourself up & running.
 
 ### Feedback
 
