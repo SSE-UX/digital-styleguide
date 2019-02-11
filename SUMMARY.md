@@ -30,7 +30,6 @@
     * [Dropdown Menus](sse-digital-styleguide/components/form-elements/dropdown-menus.md)
     * [Checkboxes](sse-digital-styleguide/components/form-elements/checkboxes.md)
     * [Radio Buttons](sse-digital-styleguide/components/form-elements/radio-buttons.md)
-    * [Tooltips](sse-digital-styleguide/components/form-elements/tooltips.md)
     * [Widths & Spacing](sse-digital-styleguide/components/form-elements/input-widths.md)
   * [Toggles](sse-digital-styleguide/components/toggles.md)
   * [Accordions](sse-digital-styleguide/components/accordions.md)
@@ -58,6 +57,7 @@
 * [Introduction](depreciated-components/introduction.md)
 * [Progress Bar \(depreciated\)](depreciated-components/progress-bar-depreciated.md)
 * [Navigational Tile Buttons \(depreciated\)](depreciated-components/navigational-tile-buttons.md)
+* [Tooltips \(depreciated\)](depreciated-components/tooltips.md)
 
 ## New Suggestions
 

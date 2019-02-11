@@ -17,4 +17,5 @@ The UX team encourage feedback on this document – please [drop us a note](mail
 | Version | Date | Description | Author |
 | :--- | :--- | :--- | :--- |
 | 0.0.1 | 01/12/2018 | Initial Document | JW |
+| 0.0.2 | 11/02/2019 | Depreciated tooltips | JW |
 
