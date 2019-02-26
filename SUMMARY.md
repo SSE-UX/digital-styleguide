@@ -44,7 +44,7 @@
 * [Tables](website-patterns/tables.md)
 * [Modals](website-patterns/lightboxes.md)
 * [Imagery](website-patterns/imagery/README.md)
-  * [Imagery & External Agencies](website-patterns/imagery/imagery-and-external-agencies.md)
+  * [Composition & Formats](website-patterns/imagery/imagery-and-external-agencies.md)
   * [Preparing & Exporting Imagery](website-patterns/imagery/preparing-and-exporting-imagery.md)
   * [Homepage Imagery](website-patterns/imagery/homepage-imagery/README.md)
     * [Homepage Hero](website-patterns/imagery/homepage-imagery/homepage-hero.md)
