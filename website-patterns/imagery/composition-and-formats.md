@@ -30,13 +30,13 @@ This requires the UX team to use existing parts of the image to make something t
 
 ![5\) Sky is recreated over the removed neon house...](../../.gitbook/assets/image-treatment-04.jpg)
 
-![6\) The right-hand side of the image is blurred...](../../.gitbook/assets/image-treatment-05.jpg)
+![6\) The left-hand side of the image is blurred...](../../.gitbook/assets/image-treatment-05.jpg)
 
-![7\) A green gradient is placed over the right-hand side...](../../.gitbook/assets/image-treatment-06.jpg)
+![7\) A green gradient is placed over the blurred left-hand side...](../../.gitbook/assets/image-treatment-06.jpg)
 
-![8\) A final blue gradient is placed over the right-hand side](../../.gitbook/assets/image-treatment-07.jpg)
+![8\) A final blue gradient is placed over the left-hand side](../../.gitbook/assets/image-treatment-07.jpg)
 
-These steps are necessary to prepare the image for the hub, where text sits on the right-hand side of the image and accessibility requires a sufficient contrast between the text and the background image. Preparing imagery in this way is a time-consuming task and often results in an image that is less than optimal.
+These steps are necessary to prepare the image for the hub, where text sits on the left-hand side of the image and accessibility requires a sufficient contrast between the text and the background image. Preparing imagery in this way is a time-consuming task and often results in an image that is less than optimal.
 
 ### The ideal composition
 
