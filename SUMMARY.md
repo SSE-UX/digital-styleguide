@@ -33,6 +33,8 @@
     * [Widths & Spacing](sse-digital-styleguide/components/form-elements/input-widths.md)
   * [Toggles](sse-digital-styleguide/components/toggles.md)
   * [Accordions](sse-digital-styleguide/components/accordions.md)
+* [Content](sse-digital-styleguide/content/README.md)
+  * [Homepage & Hub Hero Content](sse-digital-styleguide/content/hub-hero-content.md)
 
 ## Website Patterns
 
@@ -44,7 +46,6 @@
 * [Tables](website-patterns/tables.md)
 * [Modals](website-patterns/lightboxes.md)
 * [Imagery](website-patterns/imagery/README.md)
-  * [Homepage & Hub Hero Content](website-patterns/imagery/hub-hero-content.md)
   * [Composition & Formats](website-patterns/imagery/composition-and-formats.md)
   * [Preparing & Exporting Imagery](website-patterns/imagery/preparing-and-exporting-imagery.md)
   * [Homepage Imagery](website-patterns/imagery/homepage-imagery/README.md)
