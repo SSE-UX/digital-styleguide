@@ -44,6 +44,7 @@
 * [Tables](website-patterns/tables.md)
 * [Modals](website-patterns/lightboxes.md)
 * [Imagery](website-patterns/imagery/README.md)
+  * [Homepage & Hub Hero Content](website-patterns/imagery/hub-hero-content.md)
   * [Composition & Formats](website-patterns/imagery/composition-and-formats.md)
   * [Preparing & Exporting Imagery](website-patterns/imagery/preparing-and-exporting-imagery.md)
   * [Homepage Imagery](website-patterns/imagery/homepage-imagery/README.md)
