@@ -43,6 +43,6 @@ For both H1 and H2 the 'max two lines on a desktop' guideline is to ensure the c
 * Begin with an imperative such as "find", "get", "sign up" to set expectation to the customer
 
 {% hint style="info" %}
-If the CTA relies on the context of banner copy i.e. "Find out more", use the "Hidden text" field to added explanatory text for Accessibility.
+If the CTA relies on the context of banner copy i.e. "Find out more", use the "Hidden text" field to add explanatory text for Accessibility.
 {% endhint %}
 
