@@ -13,6 +13,10 @@ You can download the latest version of Sketch here: [https://sketchapp.com↗](h
 
 ## Setting up Sketch
 
+{% hint style="warning" %}
+**Note:** we are working on moving our Sketch library to Creative Cloud storage. Whilst we do this, do not follow the steps below.
+{% endhint %}
+
 Once installed, follow these steps to get Sketch all set up.
 
 ### 1. Turn off 'Auto Save'

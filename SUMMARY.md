@@ -6,6 +6,7 @@
 
 * [Our Design System](sse-digital-styleguide/our-design-system.md)
 * [Core Design Principles](sse-digital-styleguide/our-core-ux-principles.md)
+* [Designing for Accessibility](sse-digital-styleguide/designing-for-accessibility.md)
 * [Our Tools](sse-digital-styleguide/our-tools/README.md)
   * [Sketch](sse-digital-styleguide/our-tools/sketch.md)
   * [Zeplin](sse-digital-styleguide/our-tools/zeplin.md)
