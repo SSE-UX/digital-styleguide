@@ -13,49 +13,25 @@ You can download the latest version of Sketch here: [https://sketchapp.com↗](h
 
 ## Setting up Sketch
 
-{% hint style="warning" %}
-**Note:** we are working on moving our Sketch library to Creative Cloud storage. Whilst we do this, do not follow the steps below.
-{% endhint %}
-
 Once installed, follow these steps to get Sketch all set up.
 
 ### 1. Turn off 'Auto Save'
 
-This feature is turned on by default, so you'll need to manually go and turn it off in Sketch's preferences. **Please do this before opening any Sketch files.** It's very easy to unwittingly make changes while viewing a Sketch file if auto save is turned on.
+This feature is turned on by default, so you'll need to manually go and turn it off in Sketch's preferences. **Please do this before opening any Sketch files.** Whilst it may seem like a good feature, it causes more problems than it solves:
 
-![](../../.gitbook/assets/sketch-auto-save.jpg)
+* Imagine two people open the same Sketch file and turn various layers off or on to inspect the file. Sketch autosaves and now there are two versions of the same file, neither one in the state the designer left it.
+* Files created in a newer version of Sketch cannot easily be opened in an older version, so if you have a newer version of Sketch and open a file, it means someone with an older version of Sketch cannot open it.
+* Saving your work often should be part of our workflow. Software & systems are not infallible, so hit ⌘-S often!
 
-### 2. Sign into Sketch Cloud
+## Adding the SSE Digital Library to Sketch
 
-We use Sketch Cloud to store & distribute our Digital Library. You'll need to sign in using the SSE UX credentials – clicking 'Sign In...' takes you to a browser where you log in.
+We have a master Sketch library that contains all the components required to build digital SSE products. We store this on OneDrive so that any updates are instantly available to everyone. To add the library to Sketch, go to Preferences &gt; Libraries in Sketch and click 'Add Library..."
 
-![Sign in to Sketch Cloud via Sketch&apos;s preferences](../../.gitbook/assets/sketch-cloud-prefs.png)
+![](../../.gitbook/assets/sketch-add-library.jpg)
 
-Once you're logged in, you should be redirected back to Sketch.
+In the dialog box that follows, locate the SSE Digital Library file and click 'Open'. The library should now appear in your list of libraries.
 
-![You&apos;re now signed into Sketch Cloud!](../../.gitbook/assets/sketch-cloud-prefs-signed-in.png)
-
-## Adding the Digital Sketch Library
-
-We have a master Sketch library that contains all the components required to build digital SSE products. We store this in Sketch Cloud so that any updates are instantly available to everyone.
-
-### 1. Add the Digital Library to Sketch
-
-To add the library to Sketch, go to Sketch Cloud \([https://sketch.cloud/documents/all-documents↗](https://sketch.cloud/documents/all-documents)\) and click the 'SSE Digital Library' to view the file. You should see two buttons in the bottom right of the browser window.
-
-![](../../.gitbook/assets/sketch-cloud.jpg)
-
-Click the 'Add Library to Sketch' button. This will then prompt you that you need Sketch installed to use shared libraries. Click the orange 'Add Library to Sketch' button.
-
-![](../../.gitbook/assets/sketch-cloud-prompt.jpg)
-
-You should then be directed back to Sketch where you'll see the Digital Library in Preferences &gt; Libraries.
-
-### 2. Download the Digital Library
-
- Now that you've added the Digital Library to Sketch, you'll need to download it to use it. Clicking the 'Download' button in Preferences &gt; Libraries will download the Digital Library.
-
-![](../../.gitbook/assets/sketch-prefs.jpg)
+![](../../.gitbook/assets/sketch-library-added.jpg)
 
 ## Using the Digital Library
 
@@ -69,19 +45,7 @@ If you're familiar with how to use Libraries, Symbols and Overrides in Sketch, y
 
 ## Updating the Digital Library
 
-The SSE Digital Library is a living, breathing document and is updated as & when required. When an update is available, Sketch will notify you \(ensure that notifications are turned on for Sketch in your system preferences\).
-
-![Sketch will notify you when updates are available to download.](../../.gitbook/assets/library-update-ready.jpg)
-
-### 1. Download the updated Library file
-
-Clicking the notification within Sketch \(or navigating to Preferences &gt; Libraries\) will show the SSE Digital Library with an option to 'Update'.
-
-![](../../.gitbook/assets/sketch-update-download.jpg)
-
-### 2. Update symbols & instances
-
-Once you've got the updated Library, Sketch will prompt you in the top-right of the app window that the updated library is ready. Clicking this notification will open a sheet showing what's changed.
+The SSE Digital Library is a living, breathing document and is updated as & when required. When an update is available, Sketch will prompt you in the top-right of the app window that the updated library is ready. Clicking this notification will open a sheet showing what's changed.
 
 ![When you see this, updates are available!](../../.gitbook/assets/lib-update-available.jpg)
 
