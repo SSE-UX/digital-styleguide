@@ -20,4 +20,5 @@ The UX team encourage feedback on this document – please [drop us a note](mail
 | 0.0.2 | 11/02/2019 | Depreciated tooltips | JW |
 | 0.0.3 | 15/03/2019 | Homepage & Hub Hero Content | JP |
 | 0.0.4 | 08/08/2019 | Started accessibility section | JW |
+| 0.0.5 | 30/09/2019 | Revised instructions regarding adding the Sketch library | JW |
 
