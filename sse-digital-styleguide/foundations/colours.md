@@ -22,34 +22,34 @@ Colours are referred to throughout these digital guidelines using their **variab
 
 SSE's primary brand colors are used in all digital products. **These colours are** [**WCAG 2.0 AA compliant** ↗](https://www.w3.org/TR/WCAG20/#visual-audio-contrast) **when contrasted with white.**
 
-| **Colour** | **Variable name** | **Example usage** | **Hex code** |
-| :--- | :--- | :--- | :--- |
-| ![](../../.gitbook/assets/primaryblue.png) | $primaryBlue | Headings, labels, titles | `#004687` |
-| ![](../../.gitbook/assets/primarygreen.png) | $primaryGreen | Icons, bullet points, highlights | `#1A8208` |
+| **Colour** | **Variable name** | **Example usage** | **Hex code** | Compliant with white? |
+| :--- | :--- | :--- | :--- | :--- |
+| ![](../../.gitbook/assets/primaryblue.png) | $primaryBlue | Headings, labels, titles | `#004687` | Yes |
+| ![](../../.gitbook/assets/primarygreen.png) | $primaryGreen | Icons, bullet points, highlights | `#1A8208` | Yes |
 
 ## Secondary colours
 
 These colours complement the primary palette and are used to convey meaning. **Not all secondary colours will be** [**WCAG 2.0 AA compliant**](https://www.w3.org/TR/WCAG20/#visual-audio-contrast)[ ****↗](https://www.w3.org/TR/WCAG20/#visual-audio-contrast) **when contrasted with white, so care should be taken in their use**.
 
-| **Colour** | **Variable name** | **Example usage** | **Hex code** |
-| :--- | :--- | :--- | :--- |
-| ![](../../.gitbook/assets/secondaryblue.png) | $secondaryBlue | Calls to action | `#2875B2` |
-| ![](../../.gitbook/assets/secondarylightblue.png) | $secondaryLightBlue | Illustrations | `#A0C6E9` |
-| ![](../../.gitbook/assets/secondarygreen.png) | $secondaryGreen | Illustrations | `#004B1C` |
-| ![](../../.gitbook/assets/secondarylightgreen.png) | $secondaryLightGreen | Illustrations | `#B2D235` |
-| ![](../../.gitbook/assets/secondarydarkgrey.png) | $secondaryDarkGrey | Text | `#212121` |
-| ![](../../.gitbook/assets/secondarymidgrey.png) | $secondaryMidGrey | Text | `#616161` |
-| ![](../../.gitbook/assets/secondarygrey.png) | $secondaryGrey | Linework | `#BDBDBD` |
-| ![](../../.gitbook/assets/secondarylightgrey.png) | $secondaryLightGrey | Backgrounds, content sections | `#F5F5F5` |
+| **Colour** | **Variable name** | **Example usage** | **Hex code** | Compliant with white? |
+| :--- | :--- | :--- | :--- | :--- |
+| ![](../../.gitbook/assets/secondaryblue.png) | $secondaryBlue | Calls to action | `#2875B2` | Yes |
+| ![](../../.gitbook/assets/secondarylightblue.png) | $secondaryLightBlue | Illustrations | `#A0C6E9` | No |
+| ![](../../.gitbook/assets/secondarygreen.png) | $secondaryGreen | Illustrations | `#004B1C` | Yes |
+| ![](../../.gitbook/assets/secondarylightgreen.png) | $secondaryLightGreen | Illustrations | `#B2D235` | No |
+| ![](../../.gitbook/assets/secondarydarkgrey.png) | $secondaryDarkGrey | Text | `#212121` | Yes |
+| ![](../../.gitbook/assets/secondarymidgrey.png) | $secondaryMidGrey | Text | `#616161` | Yes |
+| ![](../../.gitbook/assets/secondarygrey.png) | $secondaryGrey | Linework | `#BDBDBD` | No |
+| ![](../../.gitbook/assets/secondarylightgrey.png) | $secondaryLightGrey | Backgrounds, content sections | `#F5F5F5` | No |
 
 ## Alert colours
 
-Used to convey soft or hard alert or error messages. **These colours are** [**WCAG 2.0 AA compliant** ↗](https://www.w3.org/TR/WCAG20/#visual-audio-contrast) **when contrasted with white.**
+Used to convey soft or hard alert or error messages. **Not all alert colours will be** [**WCAG 2.0 AA compliant**](https://www.w3.org/TR/WCAG20/#visual-audio-contrast)[ ****↗](https://www.w3.org/TR/WCAG20/#visual-audio-contrast) **when contrasted with white, so care should be taken in their use**.
 
-| **Colour** | **Variable name** | **Example usage** | **Hex code** |
-| :--- | :--- | :--- | :--- |
-| ![](../../.gitbook/assets/alertorange.png) | $alertOrange | Soft warnings | `#FFB100` |
-| ![](../../.gitbook/assets/alertred.png) | $alertRed | Hard warnings or errors | `#DE1920` |
+| **Colour** | **Variable name** | **Example usage** | **Hex code** | Compliant with white? |
+| :--- | :--- | :--- | :--- | :--- |
+| ![](../../.gitbook/assets/alertorange.png) | $alertOrange | Soft warnings | `#FFB100` | No |
+| ![](../../.gitbook/assets/alertred.png) | $alertRed | Hard warnings or errors | `#DE1920` | Yes |
 
 ## Gradients
 

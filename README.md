@@ -21,4 +21,5 @@ The UX team encourage feedback on this document – please [drop us a note](mail
 | 0.0.3 | 15/03/2019 | Homepage & Hub Hero Content | JP |
 | 0.0.4 | 08/08/2019 | Started accessibility section | JW |
 | 0.0.5 | 30/09/2019 | Revised instructions regarding adding the Sketch library | JW |
+| 0.0.6 | 01/10/2019 | Amended colour section to reflect AA compliance values | JW |
 
