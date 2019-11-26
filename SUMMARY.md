@@ -68,5 +68,9 @@
 
 ## New Suggestions
 
+* [Mobile friendly modals](new-suggestions/mobile-friendly-modals.md)
+* [Templates in the style guide](new-suggestions/templates-in-the-style-guide.md)
+* [Roundel Yes/No buttons](new-suggestions/roundel-yes-no-buttons.md)
+* [Step tracker](new-suggestions/step-tracker.md)
 * [T&Cs checkbox](new-suggestions/t-and-cs-checkbox.md)
 
