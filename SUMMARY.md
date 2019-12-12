@@ -68,6 +68,7 @@
 
 ## New Suggestions
 
+* [Flow charting tools](new-suggestions/flow-charting-tools.md)
 * [Mobile friendly modals](new-suggestions/mobile-friendly-modals.md)
 * [Layout and grid](new-suggestions/layout-and-grid.md)
 * [Templates in the style guide](new-suggestions/templates-in-the-style-guide.md)
