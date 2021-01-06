@@ -20,26 +20,37 @@
   * [General Content Guidelines](sse-digital-styleguide/how-we-talk/general-content-guidelines.md)
   * [Common Word & Phrases](sse-digital-styleguide/how-we-talk/common-words.md)
   * [Common Data Formatting](sse-digital-styleguide/how-we-talk/data-formatting.md)
-* [Foundations](sse-digital-styleguide/foundations/README.md)
-  * [Colours](sse-digital-styleguide/foundations/colours.md)
-  * [Typography](sse-digital-styleguide/foundations/typography.md)
-  * [Tone of Voice](sse-digital-styleguide/foundations/tone-of-voice.md)
-* [Components](sse-digital-styleguide/components/README.md)
-  * [Buttons & Links](sse-digital-styleguide/components/buttons/README.md)
-    * [Labelling & Hierarchy](sse-digital-styleguide/components/buttons/button-basics.md)
-    * [Buttons](sse-digital-styleguide/components/buttons/buttons.md)
-    * [Roundel Buttons](sse-digital-styleguide/components/buttons/roundels.md)
-    * [Text Links](sse-digital-styleguide/components/buttons/standalone-links.md)
-  * [Form Elements](sse-digital-styleguide/components/form-elements/README.md)
-    * [Text input](sse-digital-styleguide/components/form-elements/text-fields.md)
-    * [Dropdown Menus](sse-digital-styleguide/components/form-elements/dropdown-menus.md)
-    * [Checkboxes](sse-digital-styleguide/components/form-elements/checkboxes.md)
-    * [Radio Buttons](sse-digital-styleguide/components/form-elements/radio-buttons.md)
-    * [Spacing](sse-digital-styleguide/components/form-elements/input-widths.md)
-  * [Toggles](sse-digital-styleguide/components/toggles.md)
-  * [Accordions](sse-digital-styleguide/components/accordions.md)
-* [Content](sse-digital-styleguide/content/README.md)
-  * [Homepage & Hub Hero Content](sse-digital-styleguide/content/hub-hero-content.md)
+
+## Foundations <a id="foundations-1"></a>
+
+* [Colours](foundations-1/colours.md)
+* [Typography](foundations-1/typography.md)
+* [Content](foundations-1/content/README.md)
+  * [Homepage & Hub Hero Content](foundations-1/content/hub-hero-content.md)
+* [Tone of Voice](foundations-1/tone-of-voice.md)
+
+## Components
+
+* [Buttons & Links](components/buttons/README.md)
+  * [Labelling & Hierarchy](components/buttons/button-basics.md)
+  * [Buttons](components/buttons/buttons.md)
+  * [Roundel Buttons](components/buttons/roundels.md)
+  * [Text Links](components/buttons/standalone-links.md)
+* [Form Elements](components/form-elements/README.md)
+  * [Text input](components/form-elements/text-fields.md)
+  * [Dropdown Menus](components/form-elements/dropdown-menus.md)
+  * [Checkboxes](components/form-elements/checkboxes.md)
+  * [Radio Buttons](components/form-elements/radio-buttons.md)
+  * [Spacing](components/form-elements/input-widths.md)
+* [Toggles](components/toggles.md)
+* [Accordions](components/accordions.md)
+
+---
+
+* [Depreciated components](depreciated-components-2/README.md)
+  * [Progress Bar \(depreciated\)](depreciated-components-2/progress-bar-depreciated.md)
+  * [Navigational Tile Buttons \(depreciated\)](depreciated-components-2/navigational-tile-buttons.md)
+  * [Tooltips \(depreciated\)](depreciated-components-2/tooltips.md)
 
 ## Website Patterns
 
@@ -58,13 +69,6 @@
     * [Homepage Promos](website-patterns/imagery/homepage-imagery/homepage-promos.md)
   * [Hub Page Hero Imagery](website-patterns/imagery/hub-page-imagery.md)
 * [Disclaimers & Qualifiers](website-patterns/disclaimers-and-qualifiers.md)
-
-## Depreciated Components
-
-* [Introduction](depreciated-components/introduction.md)
-* [Progress Bar \(depreciated\)](depreciated-components/progress-bar-depreciated.md)
-* [Navigational Tile Buttons \(depreciated\)](depreciated-components/navigational-tile-buttons.md)
-* [Tooltips \(depreciated\)](depreciated-components/tooltips.md)
 
 ## New Suggestions
 
