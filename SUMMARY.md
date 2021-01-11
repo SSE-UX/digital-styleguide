@@ -38,7 +38,7 @@
   * [Text Links](components/buttons/standalone-links.md)
 * [Form Elements](components/form-elements/README.md)
   * [Text input](components/form-elements/text-fields.md)
-  * [Dropdown Menus](components/form-elements/dropdown-menus.md)
+  * [Select input](components/form-elements/dropdown-menus.md)
   * [Checkboxes](components/form-elements/checkboxes.md)
   * [Radio Buttons](components/form-elements/radio-buttons.md)
   * [Spacing](components/form-elements/input-widths.md)

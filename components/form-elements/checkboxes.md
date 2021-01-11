@@ -6,7 +6,7 @@ Checkboxes are used when the user has multiple options, and can select one or mo
 
 Please refer to the live example for styling:
 
-{% embed url="https://codepen.io/NGRX/pen/PoGPRrr" %}
+{% embed url="https://codepen.io/UX-SSE/pen/XWjPVgz" %}
 
 {% hint style="warning" %}
 The live example is for demo purposes only. Please make sure that the correct HTML and CSS syntax is used in production and that you adhere to any standards or practices you may have.

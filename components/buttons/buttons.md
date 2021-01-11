@@ -4,9 +4,9 @@
 
 Buttons are used to present actions a user is able to take.
 
-{% embed url="https://codepen.io/NGRX/pen/LYRrPmL" %}
-
 Please refer to the live example for styling:
+
+{% embed url="https://codepen.io/UX-SSE/pen/QWKVagE" %}
 
 {% hint style="warning" %}
 The live example is for demo purposes only. Please make sure that the correct HTML and CSS syntax is used in production and that you adhere to any standards or practices you may have.
@@ -51,6 +51,40 @@ line-height: 24px;
 
 * Used on the penultimate screen of an acquisition, application or process journey, usually on a review or confirm screen.
 * The button is presented as disabled if the user needs to complete one or more actions on the review/confirm screen before completing the process.
+
+## Icon only buttons
+
+{% embed url="https://codepen.io/UX-SSE/pen/BaLOJZy" %}
+
+{% hint style="danger" %}
+Icons must **always** be accompanied by a clear label with the exceptions of the icons listed below.
+{% endhint %}
+
+### Anatomy
+
+![](../../.gitbook/assets/icon-button-spec%20%281%29.png)
+
+### States
+
+![](../../.gitbook/assets/icon-button-states-spec.png)
+
+### Rules
+
+* Used when the icon alone is a standard practice or ubiquitous that it's very unlikely the user will mistake the action the icon is trying to communicate.
+* The list of acceptable uses is:
+
+| Icon | Name | Usage |
+| :--- | :--- | :--- |
+| ![](../../.gitbook/assets/cross.png) | Close | Used to close modals or inline information |
+| ![](../../.gitbook/assets/search.png) | Search | Indicate the presence of a search function |
+| ![](../../.gitbook/assets/my-account.png) | Account | Indicate the presence of account functionality |
+| ![](../../.gitbook/assets/twitter.png)  | Twitter | To navigate to Twitter |
+| ![](../../.gitbook/assets/facebook.png)  | Facebook | To navigate to [https://en-gb.facebook.com/](https://en-gb.facebook.com/) |
+| ![](../../.gitbook/assets/email.png)  | Email | To open an email client with the address desired address pre-filled |
+| ![](../../.gitbook/assets/change-tariff-old-.png)  | Refresh | To refresh a view or content list |
+| ![](../../.gitbook/assets/boilers-and-heating.png)  | Home | To navigate to the root of the site |
+|   | Settings | To open settings menu or modal |
+| ![](../../.gitbook/assets/trashcan.png)  | Delete/Remove | To delete or remove an item |
 
 
 

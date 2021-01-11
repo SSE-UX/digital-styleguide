@@ -1,12 +1,12 @@
-# Dropdown Menus
+# Select input
 
 ## Introduction
 
-Text inputs allow the user to input and edit data.
+Select inputs allow the user to input and edit data.
 
 Please refer to the live example for styling:
 
-{% embed url="https://codepen.io/NGRX/pen/bGwBvRq" %}
+{% embed url="https://codepen.io/UX-SSE/pen/yLaxpXM" %}
 
 {% hint style="warning" %}
 The live example is for demo purposes only. Please make sure that the correct HTML and CSS syntax is used in production and that you adhere to any standards or practices you may have.

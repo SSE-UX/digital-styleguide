@@ -6,7 +6,7 @@ Text inputs allow the user to input and edit data.
 
 Please refer to the live example for styling:
 
-{% embed url="https://codepen.io/NGRX/pen/YzGwWLa" %}
+{% embed url="https://codepen.io/UX-SSE/pen/rNMZpwG" %}
 
 {% hint style="warning" %}
 The live example is for demo purposes only. Please make sure that the correct HTML and CSS syntax is used in production and that you adhere to any standards or practices you may have.

@@ -6,7 +6,7 @@ Radio buttons are used when the user has multiple options, but only one of them 
 
 Please refer to the live example for styling:
 
-{% embed url="https://codepen.io/NGRX/pen/MWjamez" %}
+{% embed url="https://codepen.io/UX-SSE/pen/abmaEwY" %}
 
 {% hint style="warning" %}
 The live example is for demo purposes only. Please make sure that the correct HTML and CSS syntax is used in production and that you adhere to any standards or practices you may have.
