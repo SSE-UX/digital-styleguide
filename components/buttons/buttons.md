@@ -56,10 +56,6 @@ line-height: 24px;
 
 {% embed url="https://codepen.io/UX-SSE/pen/BaLOJZy" %}
 
-{% hint style="danger" %}
-Icons must **always** be accompanied by a clear label with the exceptions of the icons listed below.
-{% endhint %}
-
 ### Anatomy
 
 ![](../../.gitbook/assets/icon-button-spec%20%281%29.png)
@@ -69,6 +65,10 @@ Icons must **always** be accompanied by a clear label with the exceptions of the
 ![](../../.gitbook/assets/icon-button-states-spec.png)
 
 ### Rules
+
+{% hint style="danger" %}
+Icons must **always** be accompanied by a clear label with the exceptions of the icons listed below.
+{% endhint %}
 
 * Used when the icon alone is a standard practice or ubiquitous that it's very unlikely the user will mistake the action the icon is trying to communicate.
 * The list of acceptable uses is:
