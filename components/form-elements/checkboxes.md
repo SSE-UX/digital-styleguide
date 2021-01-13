@@ -14,9 +14,9 @@ The live example is for demo purposes only. Please make sure that the correct HT
 
 ### Anatomy
 
-![](../../.gitbook/assets/spec_checkbox.png)
+![](../../.gitbook/assets/spec_checkbox%20%282%29.png)
 
-![](../../.gitbook/assets/spec_checkbox_padding.png)
+![](../../.gitbook/assets/spec_checkbox_padding%20%281%29.png)
 
 | Item | Label | Optional | Rules |
 | :--- | :--- | :--- | :--- |
@@ -79,7 +79,7 @@ This state provides the user with a visual indication of which field has the cur
 
 This state is used to indicate that an error has occurred. This is communicated by combining visual changes and additional elements. We use a horizontal line, changing label colour and the addition of help text. Help text must appear below the options and be a concise summary of how to resolve the error. 
 
-![](../../.gitbook/assets/states_checkbox_error.png)
+![](../../.gitbook/assets/states_checkbox_error%20%281%29.png)
 
 ### 
 
@@ -87,7 +87,7 @@ This state is used to indicate that an error has occurred. This is communicated 
 
 Same as the _Error_ and _Focus_ state, just combined.
 
-![](../../.gitbook/assets/states_checkbox_error-focused.png)
+![](../../.gitbook/assets/states_checkbox_error-focused%20%281%29.png)
 
 ### 🚫 Success/Filled
 

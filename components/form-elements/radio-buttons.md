@@ -14,9 +14,9 @@ The live example is for demo purposes only. Please make sure that the correct HT
 
 ### Anatomy
 
-![](../../.gitbook/assets/spec_anatomy_radio%20%281%29.png)
+![](../../.gitbook/assets/spec_anatomy_radio%20%283%29.png)
 
-![](../../.gitbook/assets/spec_anatomy_padding_radio%20%281%29.png)
+![](../../.gitbook/assets/spec_anatomy_padding_radio%20%282%29.png)
 
 
 
@@ -69,13 +69,13 @@ This state provides the user with a visual indication of which field has the cur
 
 This state is used to indicate that an error has occurred. This is communicated by combining visual changes and additional elements. We use a horizontal line, changing label colour and the addition of help text. Help text must appear below the options and be a concise summary of how to resolve the error. 
 
-![](../../.gitbook/assets/states_error_radio%20%281%29.png)
+![](../../.gitbook/assets/states_error_radio%20%282%29.png)
 
 ### Error with focus
 
 Same as the _Error_ and _Focus_ state, just combined.
 
-![](../../.gitbook/assets/states_error-focus_radio%20%281%29.png)
+![](../../.gitbook/assets/states_error-focus_radio%20%282%29.png)
 
 ### 🚫 Success/Filled
 
