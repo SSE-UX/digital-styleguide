@@ -18,7 +18,9 @@ The live example is for demo purposes only. Please make sure that the correct HT
 
 ![](../../.gitbook/assets/spec_anatomy_padding_radio%20%282%29.png)
 
-
+{% hint style="warning" %}
+Left padding has been updated to 12px to account for all existing breakpoints.
+{% endhint %}
 
 | Item | Label | Optional | Rules |
 | :--- | :--- | :--- | :--- |

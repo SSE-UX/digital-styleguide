@@ -18,6 +18,10 @@ The live example is for demo purposes only. Please make sure that the correct HT
 
 ![](../../.gitbook/assets/spec_select-input-padding.png)
 
+{% hint style="warning" %}
+Left padding has been updated to 12px to account for all existing breakpoints.
+{% endhint %}
+
 | Item | Label | Optional | Rules |
 | :--- | :--- | :--- | :--- |
 | 1 | Label | No | N/A |
